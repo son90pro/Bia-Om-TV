@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs Frosinone" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpoMG1ndWpoZGd2YnAyMzNzaTcybDJzZg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs Frosinone" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",01:45 11/10 ⚽ Napoli vs Frosinone (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpoMG1ndWpoZGd2YnAyMzNzaTcybDJzZg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs Le Mans" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-saint-germain-591" group-title="Bia Ôm TV",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN5cGE3bXdxazM2MmExZDg2YWR0anZwbQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Paris Saint-Germain vs Le Mans" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-saint-germain-591" group-title="Bia Ôm TV",01:45 11/10 ⚽ Paris Saint-Germain vs Le Mans (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN5cGE3bXdxazM2MmExZDg2YWR0anZwbQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 11/10 ⚽ Real Madrid vs Villarreal (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF2cGxweWxvaHloNzQ0a2R0aHljaGU1ag.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 11/10 ⚽ Real Madrid vs Villarreal (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF2cGxweWxvaHloNzQ0a2R0aHljaGU1ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 11/10 ⚽ Real Madrid vs Villarreal (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 11/10 ⚽ Real Madrid vs Villarreal (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Qingdao West Coast vs Dalian Yingbo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qingdao-west-coast-257391" group-title="Bia Ôm TV",17:00 11/10 ⚽ Qingdao West Coast vs Dalian Yingbo (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk2NzQ2MDQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnlwZnIzNHd0Z2pod2k0MmlqMnh4bmxuMA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Qingdao West Coast vs Dalian Yingbo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qingdao-west-coast-257391" group-title="Bia Ôm TV",17:00 11/10 ⚽ Qingdao West Coast vs Dalian Yingbo (Lẩu Ếch) [hls]
