@@ -1,9 +1,9 @@
 name: Auto Update M3U BiaOmTV
 
 on:
-  scheduled:
-    - cron: '0 * * * *' # Chạy tự động mỗi giờ một lần
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+  schedule:
+    - cron: '0 * * * *' # Chạy tự động mỗi giờ một lần (phút thứ 0 của mỗi giờ)
+  workflow_dispatch: # Cho phép nhấn nút "Run workflow" để chạy thủ công bất cứ lúc nào
 
 permissions:
   contents: write
