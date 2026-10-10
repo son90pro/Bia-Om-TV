@@ -30,14 +30,14 @@ def generate_m3u():
     today_str = now_vn.strftime('%Y-%m-%d')
     tomorrow_str = (now_vn + timedelta(days=1)).strftime('%Y-%m-%d')
 
-    m3u_content = '#EXTM3U x-tvg-url=""\n'
+    parsed_matches = []
 
     for item in items:
         match_info = item.get("match", {})
         if not match_info:
             continue
 
-        starting_at = match_info.get("starting_at") # 2026-10-10T08:35:00+00:00
+        starting_at = match_info.get("starting_at") # Dạng ISO: 2026-10-10T08:35:00+00:00
         if not starting_at:
             continue
 
@@ -50,40 +50,51 @@ def generate_m3u():
         if match_date_key not in [today_str, tomorrow_str]:
             continue
 
-        # Format ngày giờ theo đúng mẫu trong hình (VD: 15:35 10/10)
+        # Lưu lại đối tượng chứa đầy đủ thông tin + timestamp thời gian để sắp xếp
+        parsed_matches.append({
+            "datetime_vn": dt_vn,
+            "home_team": match_info.get("home", {}).get("name", "Home"),
+            "away_team": match_info.get("away", {}).get("name", "Away"),
+            "home_logo": match_info.get("home", {}).get("image_url", ""),
+            "blv_name": item.get("streamer", {}).get("displayName", "Chưa rõ").strip(),
+            "stream_url": item.get("streamUrl", ""),        # FLV
+            "mobile_stream_url": item.get("mobileStreamUrl", "") # HLS (.m3u8)
+        })
+
+    # SẮP XẾP TĂNG DẦN THEO THỜI GIAN (Trận sớm hơn sẽ lên trước)
+    parsed_matches.sort(key=lambda x: x["datetime_vn"])
+
+    # Tạo nội dung M3U
+    m3u_content = '#EXTM3U x-tvg-url=""\n'
+
+    for match in parsed_matches:
+        dt_vn = match["datetime_vn"]
         time_formatted = dt_vn.strftime('%H:%M')
         date_formatted = dt_vn.strftime('%d/%m')
 
-        home_team = match_info.get("home", {}).get("name", "Home")
-        away_team = match_info.get("away", {}).get("name", "Away")
-        home_logo = match_info.get("home", {}).get("image_url", "")
+        home_team = match["home_team"]
+        away_team = match["away_team"]
+        home_logo = match["home_logo"]
+        blv_name = match["blv_name"]
         
-        streamer = item.get("streamer", {})
-        blv_name = streamer.get("displayName", "Chưa rõ").strip()
-
-        # Luồng phát
-        stream_url = item.get("streamUrl", "")        # FLV
-        mobile_stream_url = item.get("mobileStreamUrl", "")  # HLS (.m3u8)
-
-        # Cấu trúc hiển thị chuẩn mẫu: 15:35 10/10 ⚽ South Melbourne vs Melbourne Victory (ASAHI)
         match_title = f"{time_formatted} {date_formatted} ⚽ {home_team} vs {away_team} ({blv_name})"
 
         # 1. Luồng FLV
-        if stream_url:
+        if match["stream_url"]:
             title_flv = f"{match_title} [flv]"
             m3u_content += f'#EXTINF:-1 tvg-id="" tvg-name="{home_team} vs {away_team}" tvg-logo="{home_logo}" group-title="Bia Ôm TV",{title_flv}\n'
-            m3u_content += f'{stream_url}\n'
+            m3u_content += f'{match["stream_url"]}\n'
 
         # 2. Luồng HLS
-        if mobile_stream_url:
+        if match["mobile_stream_url"]:
             title_hls = f"{match_title} [hls]"
             m3u_content += f'#EXTINF:-1 tvg-id="" tvg-name="{home_team} vs {away_team}" tvg-logo="{home_logo}" group-title="Bia Ôm TV",{title_hls}\n'
-            m3u_content += f'{mobile_stream_url}\n'
+            m3u_content += f'{match["mobile_stream_url"]}\n'
 
     with open("biaom_live.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
-    print("Đã tạo file biaom_live.m3u chuẩn giao diện mẫu thành công!")
+    print("Đã sắp xếp danh sách trận đấu theo thứ tự thời gian tăng dần thành công!")
 
 if __name__ == "__main__":
     generate_m3u()
-
+    
