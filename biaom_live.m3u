@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="FC Köln vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-koln-3320" group-title="Bia Ôm TV",20:30 11/10 ⚽ FC Köln vs Borussia Mönchengladbach (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzUxNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om15dTducmQ2Yzh5Ymo3ZTBrMTRxbzFkMA.flv
-#EXTINF:-1 tvg-id="" tvg-name="FC Köln vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-koln-3320" group-title="Bia Ôm TV",20:30 11/10 ⚽ FC Köln vs Borussia Mönchengladbach (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om15dTducmQ2Yzh5Ymo3ZTBrMTRxbzFkMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Deportivo La Coruña" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",21:15 11/10 ⚽ Real Sociedad vs Deportivo La Coruña (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1pdmJsZGw4N2Zmbm1wZW9tM3Job282ZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Deportivo La Coruña" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",21:15 11/10 ⚽ Real Sociedad vs Deportivo La Coruña (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1pdmJsZGw4N2Zmbm1wZW9tM3Job282ZA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",22:30 11/10 ⚽ Liverpool vs Manchester City (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxNDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1tMXN3eTF0dmptdGswbWp6dnhpczk1ag.flv
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",22:30 11/10 ⚽ Liverpool vs Manchester City (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxNDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1tMXN3eTF0dmptdGswbWp6dnhpczk1ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",22:30 11/10 ⚽ Liverpool vs Manchester City (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxNDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhqc3JndDF3aTZ1OGk3NDNweDEzMXNxNw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",22:30 11/10 ⚽ Liverpool vs Manchester City (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxNDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhqc3JndDF3aTZ1OGk3NDNweDEzMXNxNw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sassuolo vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Bia Ôm TV",23:00 11/10 ⚽ Sassuolo vs Milan (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmFpdGV2NXVkcHh1bTV1bzkwbWViaWJzaA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sassuolo vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Bia Ôm TV",23:00 11/10 ⚽ Sassuolo vs Milan (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmFpdGV2NXVkcHh1bTV1bzkwbWViaWJzaA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Betis vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Bia Ôm TV",23:30 11/10 ⚽ Real Betis vs Osasuna (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NzE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmExOXk4N2xta2tvbHM4ZjNlbXRmZ2M3NQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Betis vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Bia Ôm TV",23:30 11/10 ⚽ Real Betis vs Osasuna (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NzE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmExOXk4N2xta2tvbHM4ZjNlbXRmZ2M3NQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cagliari vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Bia Ôm TV",01:45 12/10 ⚽ Cagliari vs Juventus (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnVwanpqOHNvemxmdGpoMDBtYWRqZGMyZA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Cagliari vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Bia Ôm TV",01:45 12/10 ⚽ Cagliari vs Juventus (NEM NƯỚNG) [hls]
