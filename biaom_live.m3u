@@ -1,21 +1,77 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al-Qadsiah" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 12/10 ⚽ Pakhtakor Tashkent vs Al-Qadsiah (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al-Qadsiah" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 12/10 ⚽ Pakhtakor Tashkent vs Al-Qadsiah (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VPS vs Gnistan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" group-title="Bia Ôm TV",22:00 12/10 ⚽ VPS vs Gnistan (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg.flv
-#EXTINF:-1 tvg-id="" tvg-name="VPS vs Gnistan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" group-title="Bia Ôm TV",22:00 12/10 ⚽ VPS vs Gnistan (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Al Shamal SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 12/10 ⚽ Tractor Sazi vs Al Shamal SC (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnY3NjMxMXB1dmo5azlhY2p2eTBvNWxqYw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Al Shamal SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 12/10 ⚽ Tractor Sazi vs Al Shamal SC (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnY3NjMxMXB1dmo5azlhY2p2eTBvNWxqYw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Wasl vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Bia Ôm TV",23:00 12/10 ⚽ Al Wasl vs Al Ahli (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM4bXFsZWhuMjA4NWRremV5c3lsOHh6aA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Wasl vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Bia Ôm TV",23:00 12/10 ⚽ Al Wasl vs Al Ahli (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM4bXFsZWhuMjA4NWRremV5c3lsOHh6aA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atalanta vs Venezia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Bia Ôm TV",23:30 12/10 ⚽ Atalanta vs Venezia (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Atalanta vs Venezia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Bia Ôm TV",23:30 12/10 ⚽ Atalanta vs Venezia (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Nassr vs Neftchi (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp2NG1leXk0cG1iYmxnbnBvYnl0ZXNzbQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Nassr vs Neftchi (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp2NG1leXk0cG1iYmxnbnBvYnl0ZXNzbQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Gharafa vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-gharafa-422" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Gharafa vs Esteghlal (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwOTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtycWZ2Y3B4NHQ1aXRxNW80dnd4NXo4ZQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Gharafa vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-gharafa-422" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Gharafa vs Esteghlal (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwOTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtycWZ2Y3B4NHQ1aXRxNW80dnd4NXo4ZQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Udinese" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 13/10 ⚽ Torino FC vs Udinese (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Udinese" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 13/10 ⚽ Torino FC vs Udinese (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",02:00 13/10 ⚽ Coventry City vs Newcastle United (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",02:00 13/10 ⚽ Coventry City vs Newcastle United (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="Bia Ôm TV",14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwODM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms1cnZlazg3YmJlZzhnOGEwN29ua3ZtMg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="Bia Ôm TV",14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwODM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms1cnZlazg3YmJlZzhnOGEwN29ua3ZtMg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shanghai Port vs Daejeon Citizen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Bia Ôm TV",17:00 13/10 ⚽ Shanghai Port vs Daejeon Citizen (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwNjM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnNrNW8wMmFwbjFheGVkaDNwMnNnbW1pcA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Shanghai Port vs Daejeon Citizen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Bia Ôm TV",17:00 13/10 ⚽ Shanghai Port vs Daejeon Citizen (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNjM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnNrNW8wMmFwbjFheGVkaDNwMnNnbW1pcA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pohang Steelers vs Johor Darul Ta'zim" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="Bia Ôm TV",17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwNzA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRmZTFwdW43cXh4Y21neWoyOXVzb2I4NA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Pohang Steelers vs Johor Darul Ta'zim" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="Bia Ôm TV",17:00 13/10 ⚽ Pohang Steelers vs Johor Darul Ta'zim (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNzA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRmZTFwdW43cXh4Y21neWoyOXVzb2I4NA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kyoto Sanga vs Ratchaburi Mitrphol FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Bia Ôm TV",17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi Mitrphol FC (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwNzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omt1Ym9ueWdhYnFucHloNTh5aWt3ZXF1Zw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Kyoto Sanga vs Ratchaburi Mitrphol FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Bia Ôm TV",17:00 13/10 ⚽ Kyoto Sanga vs Ratchaburi Mitrphol FC (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omt1Ym9ueWdhYnFucHloNTh5aWt3ZXF1Zw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Công an Hà Nội vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV",19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Công an Hà Nội vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV",19:15 13/10 ⚽ Công an Hà Nội vs Kashima Antlers (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Buriram United vs Beijing Guoan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV",19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZxOGsyanJxamNnaXk1ZWJlaHJucjNneA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Buriram United vs Beijing Guoan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV",19:15 13/10 ⚽ Buriram United vs Beijing Guoan (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZxOGsyanJxamNnaXk1ZWJlaHJucjNneA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="East Bengal vs Al Shorta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" group-title="Bia Ôm TV",20:45 13/10 ⚽ East Bengal vs Al Shorta (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw.flv
+#EXTINF:-1 tvg-id="" tvg-name="East Bengal vs Al Shorta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" group-title="Bia Ôm TV",20:45 13/10 ⚽ East Bengal vs Al Shorta (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sabah vs Slavia Praha" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Bia Ôm TV",23:45 13/10 ⚽ Sabah vs Slavia Praha (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM2NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZweHpqdzEzbTg3cTF3em94ZmI0NTQ0dg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Sabah vs Slavia Praha" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Bia Ôm TV",23:45 13/10 ⚽ Sabah vs Slavia Praha (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM2NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZweHpqdzEzbTg3cTF3em94ZmI0NTQ0dg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lens vs Sporting CP" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",23:45 13/10 ⚽ Lens vs Sporting CP (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM2NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmI0aGMwazI2dDhla2ZwZGxvYnJpNndhYw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lens vs Sporting CP" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",23:45 13/10 ⚽ Lens vs Sporting CP (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM2NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmI0aGMwazI2dDhla2ZwZGxvYnJpNndhYw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Shabab Al Ahli Dubai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 14/10 ⚽ Al Ittihad vs Shabab Al Ahli Dubai (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcwMzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJpY3E5NWZqajRvcmp4ODQ4Mng2ejZmdQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Shabab Al Ahli Dubai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 14/10 ⚽ Al Ittihad vs Shabab Al Ahli Dubai (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcwMzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJpY3E5NWZqajRvcmp4ODQ4Mng2ejZmdQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",02:00 14/10 ⚽ Villarreal vs Napoli (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzMyNDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omxxb3o1c2c1MXdrMGtpcnhzY29ocXo2Mw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",02:00 14/10 ⚽ Villarreal vs Napoli (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzMyNDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omxxb3o1c2c1MXdrMGtpcnhzY29ocXo2Mw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Club Brugge" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",02:00 14/10 ⚽ Inter Milan vs Club Brugge (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzMyMzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFobmxpaGc1NHM5Z2ozcXhwZjFkY3ljbg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Club Brugge" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",02:00 14/10 ⚽ Inter Milan vs Club Brugge (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzMyMzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFobmxpaGc1NHM5Z2ozcXhwZjFkY3ljbg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",02:00 14/10 ⚽ Galatasaray vs FC Barcelona (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRianhpc3I0a3RibHF2dzh2YXp4ZHdhdA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",02:00 14/10 ⚽ Galatasaray vs FC Barcelona (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRianhpc3I0a3RibHF2dzh2YXp4ZHdhdA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Manchester United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 14/10 ⚽ Atlético Madrid vs Manchester United (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI2MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmU0djE2MnRvOXp3ZHVneGUyZTN4c2M1YQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Manchester United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 14/10 ⚽ Atlético Madrid vs Manchester United (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmU0djE2MnRvOXp3ZHVneGUyZTN4c2M1YQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs LOSC Lille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",02:00 14/10 ⚽ Arsenal vs LOSC Lille (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI2MzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnozYm5ycWM3NWw1bjk1cGhoMHVzM3pzcQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs LOSC Lille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",02:00 14/10 ⚽ Arsenal vs LOSC Lille (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnozYm5ycWM3NWw1bjk1cGhoMHVzM3pzcQ/index.m3u8
