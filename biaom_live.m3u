@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Nassr vs Neftchi (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp2NG1leXk0cG1iYmxnbnBvYnl0ZXNzbQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Nassr vs Neftchi (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp2NG1leXk0cG1iYmxnbnBvYnl0ZXNzbQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Gharafa vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-gharafa-422" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Gharafa vs Esteghlal (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwOTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtycWZ2Y3B4NHQ1aXRxNW80dnd4NXo4ZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Gharafa vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-gharafa-422" group-title="Bia Ôm TV",01:15 13/10 ⚽ Al Gharafa vs Esteghlal (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwOTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtycWZ2Y3B4NHQ1aXRxNW80dnd4NXo4ZQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Udinese" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 13/10 ⚽ Torino FC vs Udinese (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Udinese" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 13/10 ⚽ Torino FC vs Udinese (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",02:00 13/10 ⚽ Coventry City vs Newcastle United (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",02:00 13/10 ⚽ Coventry City vs Newcastle United (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="Bia Ôm TV",14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjcwODM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms1cnZlazg3YmJlZzhnOGEwN29ua3ZtMg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Newcastle Jets vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="Bia Ôm TV",14:45 13/10 ⚽ Newcastle Jets vs Gamba Osaka (Lẩu Ếch) [hls]
