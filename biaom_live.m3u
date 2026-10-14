@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Shabab Al Ahli Dubai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 14/10 ⚽ Al Ittihad vs Shabab Al Ahli Dubai (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJpY3E5NWZqajRvcmp4ODQ4Mng2ejZmdQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Shabab Al Ahli Dubai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 14/10 ⚽ Al Ittihad vs Shabab Al Ahli Dubai (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJpY3E5NWZqajRvcmp4ODQ4Mng2ejZmdQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",02:00 14/10 ⚽ Galatasaray vs FC Barcelona (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om4zbDhqcGpsM2ZzY3F4dXE2ZWE4bzhmZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",02:00 14/10 ⚽ Galatasaray vs FC Barcelona (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om4zbDhqcGpsM2ZzY3F4dXE2ZWE4bzhmZA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",02:00 14/10 ⚽ Villarreal vs Napoli (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzMyNDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omxxb3o1c2c1MXdrMGtpcnhzY29ocXo2Mw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",02:00 14/10 ⚽ Villarreal vs Napoli (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzMyNDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omxxb3o1c2c1MXdrMGtpcnhzY29ocXo2Mw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Club Brugge" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",02:00 14/10 ⚽ Inter Milan vs Club Brugge (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzMyMzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFobmxpaGc1NHM5Z2ozcXhwZjFkY3ljbg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Club Brugge" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",02:00 14/10 ⚽ Inter Milan vs Club Brugge (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzMyMzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFobmxpaGc1NHM5Z2ozcXhwZjFkY3ljbg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Manchester United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 14/10 ⚽ Atlético Madrid vs Manchester United (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI2MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmU0djE2MnRvOXp3ZHVneGUyZTN4c2M1YQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Manchester United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 14/10 ⚽ Atlético Madrid vs Manchester United (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmU0djE2MnRvOXp3ZHVneGUyZTN4c2M1YQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs LOSC Lille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",02:00 14/10 ⚽ Arsenal vs LOSC Lille (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI2MzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnozYm5ycWM3NWw1bjk1cGhoMHVzM3pzcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs LOSC Lille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",02:00 14/10 ⚽ Arsenal vs LOSC Lille (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnozYm5ycWM3NWw1bjk1cGhoMHVzM3pzcQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 14/10 ⚽ Melbourne Victory vs Seoul (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 14/10 ⚽ Melbourne Victory vs Seoul (ASAHI) [hls]
