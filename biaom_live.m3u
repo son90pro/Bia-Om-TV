@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 14/10 ⚽ Melbourne Victory vs Seoul (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 14/10 ⚽ Melbourne Victory vs Seoul (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama vs Urawa Red Diamonds" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-2503" group-title="Bia Ôm TV",16:30 14/10 ⚽ Yokohama vs Urawa Red Diamonds (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzcyNjE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZzYnNoejNleHBhZDZlNDE4dTF6Y3liZg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama vs Urawa Red Diamonds" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-2503" group-title="Bia Ôm TV",16:30 14/10 ⚽ Yokohama vs Urawa Red Diamonds (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzcyNjE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZzYnNoejNleHBhZDZlNDE4dTF6Y3liZg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vissel Kobe vs Jeonbuk Hyundai Motors" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="Bia Ôm TV",17:00 14/10 ⚽ Vissel Kobe vs Jeonbuk Hyundai Motors (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMjc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmwyMjExY204cjh4cHV2ZWEyb2o2amE0Yg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Vissel Kobe vs Jeonbuk Hyundai Motors" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="Bia Ôm TV",17:00 14/10 ⚽ Vissel Kobe vs Jeonbuk Hyundai Motors (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMjc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmwyMjExY204cjh4cHV2ZWEyb2o2amE0Yg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kashiwa Reysol vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Bia Ôm TV",17:00 14/10 ⚽ Kashiwa Reysol vs Port FC (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc3OTB2M3MxYTRyajdrYWx4bjF3d2t1Mw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Kashiwa Reysol vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Bia Ôm TV",17:00 14/10 ⚽ Kashiwa Reysol vs Port FC (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc3OTB2M3MxYTRyajdrYWx4bjF3d2t1Mw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Persib vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",19:15 14/10 ⚽ Persib vs Thể Công-Viettel (333) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIzNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZiZWwyemVybHhtY3Q0a2E3NWduOGwycg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Persib vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",19:15 14/10 ⚽ Persib vs Thể Công-Viettel (333) [hls]
@@ -47,3 +31,23 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM2NzY6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnY
 https://cdnflv.xbdbotv.live/live/MTk4NzM2NzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnBwbWd3ZzVjd2NjY3U1NXE1b3R0bG16NA.flv
 #EXTINF:-1 tvg-id="" tvg-name="AS Roma vs Real Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Bia Ôm TV",02:00 15/10 ⚽ AS Roma vs Real Madrid (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NzM2NzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnBwbWd3ZzVjd2NjY3U1NXE1b3R0bG16NA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Bia Ôm TV",19:15 15/10 ⚽ BG Pathum United vs Adelaide United (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIyNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om91M3BieWdhZmpwMnZpYjN1aTU2bXh6Zg.flv
+#EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Bia Ôm TV",19:15 15/10 ⚽ BG Pathum United vs Adelaide United (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om91M3BieWdhZmpwMnZpYjN1aTU2bXh6Zg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Machida Zelvia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",19:15 15/10 ⚽ Tampines Rovers vs Machida Zelvia (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIyNzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJsaWloZWFkcmdkeWZ4czlyYXc4NmQxbw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Machida Zelvia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",19:15 15/10 ⚽ Tampines Rovers vs Machida Zelvia (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJsaWloZWFkcmdkeWZ4czlyYXc4NmQxbw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kuching FA vs Kitchee" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kuching-fa-160711" group-title="Bia Ôm TV",19:15 15/10 ⚽ Kuching FA vs Kitchee (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjIyNjg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFkdTlqcWIxbDBpZnQ4bjZudHpqOGwwMA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Kuching FA vs Kitchee" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kuching-fa-160711" group-title="Bia Ôm TV",19:15 15/10 ⚽ Kuching FA vs Kitchee (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNjg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFkdTlqcWIxbDBpZnQ4bjZudHpqOGwwMA/index.m3u8
