@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",17:00 15/10 ⚽ Wofoo Tai Po vs Lion City Sailors FC (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Phnom Penh Crown" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 15/10 ⚽ Gangwon FC vs Phnom Penh Crown (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:15 15/10 ⚽ Svay Rieng vs Shanghai Shenhua (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIyNzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnIxNnFkdzZobmpnOTR1dDdzYWdob25kNg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:15 15/10 ⚽ Svay Rieng vs Shanghai Shenhua (Lẩu Ếch) [hls]
