@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Sydney vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" group-title="Bia Ôm TV",16:00 16/10 ⚽ Sydney vs Western Sydney Wanderers (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MjI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhqbXoyZmhhajR5N20wNmMwMzczeGphcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sydney vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" group-title="Bia Ôm TV",16:00 16/10 ⚽ Sydney vs Western Sydney Wanderers (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MjI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmhqbXoyZmhhajR5N20wNmMwMzczeGphcQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" group-title="Bia Ôm TV",18:35 16/10 ⚽ Henan Songshan Longmen vs Tianjin Jinmen Tiger (TÔM CHIÊN) [flv]
 https://cdnflv.xbdbotv.live/live/MTk2NzQ2MDE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRwM2NzNWF3Z3Bwdm9ycGVibm9pMTNhdw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" group-title="Bia Ôm TV",18:35 16/10 ⚽ Henan Songshan Longmen vs Tianjin Jinmen Tiger (TÔM CHIÊN) [hls]
