@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" group-title="Bia Ôm TV",18:35 16/10 ⚽ Henan Songshan Longmen vs Tianjin Jinmen Tiger (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzQ2MDE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRwM2NzNWF3Z3Bwdm9ycGVibm9pMTNhdw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Henan Songshan Longmen vs Tianjin Jinmen Tiger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/henan-songshan-longmen-8428" group-title="Bia Ôm TV",18:35 16/10 ⚽ Henan Songshan Longmen vs Tianjin Jinmen Tiger (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzQ2MDE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmRwM2NzNWF3Z3Bwdm9ycGVibm9pMTNhdw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madura United vs Bhayangkara" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 16/10 ⚽ Madura United vs Bhayangkara (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1MDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdtYWluc3pvOHJtNHYzczl1eG85YzdvdQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Madura United vs Bhayangkara" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 16/10 ⚽ Madura United vs Bhayangkara (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1MDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdtYWluc3pvOHJtNHYzczl1eG85YzdvdQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Malut United vs Bali United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malut-united-270737" group-title="Bia Ôm TV",19:00 16/10 ⚽ Malut United vs Bali United (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1MDQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmljdWJ3OXU2NXBiaGhhNHhwZ3Fpb2hidg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Malut United vs Bali United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malut-united-270737" group-title="Bia Ôm TV",19:00 16/10 ⚽ Malut United vs Bali United (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1MDQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmljdWJ3OXU2NXBiaGhhNHhwZ3Fpb2hidg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Holstein Kiel vs Hertha BSC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/holstein-kiel-3611" group-title="Bia Ôm TV",23:30 16/10 ⚽ Holstein Kiel vs Hertha BSC (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzU0MzU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnh6b2l1ajc5MWZrbmE2anF6cXh1b3Z2bw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Holstein Kiel vs Hertha BSC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/holstein-kiel-3611" group-title="Bia Ôm TV",23:30 16/10 ⚽ Holstein Kiel vs Hertha BSC (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzU0MzU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnh6b2l1ajc5MWZrbmE2anF6cXh1b3Z2bw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energie Cottbus vs Nürnberg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/energie-cottbus-3322" group-title="Bia Ôm TV",23:30 16/10 ⚽ Energie Cottbus vs Nürnberg (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzU0MzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFpOHlxZnY1dWp3bTRuYmIzOHBhOWk4NA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Energie Cottbus vs Nürnberg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/energie-cottbus-3322" group-title="Bia Ôm TV",23:30 16/10 ⚽ Energie Cottbus vs Nürnberg (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzU0MzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFpOHlxZnY1dWp3bTRuYmIzOHBhOWk4NA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SC Heerenveen vs Excelsior" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-heerenveen-1053" group-title="Bia Ôm TV",01:00 17/10 ⚽ SC Heerenveen vs Excelsior (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTQ2Mjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnhubG5xcXFndHVkMGN6dWxvejdlcWh2MA.flv
 #EXTINF:-1 tvg-id="" tvg-name="SC Heerenveen vs Excelsior" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-heerenveen-1053" group-title="Bia Ôm TV",01:00 17/10 ⚽ SC Heerenveen vs Excelsior (Lẩu Ếch) [hls]
@@ -27,6 +7,10 @@ https://cdnhls.xbdbotv.live/live/MTk3MTQ2Mjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnh
 https://cdnflv.xbdbotv.live/live/MTk3MzUxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxhMmJlZGhuaWFlbnMzaDkwMzQwenc5ag.flv
 #EXTINF:-1 tvg-id="" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-frankfurt-366" group-title="Bia Ôm TV",01:30 17/10 ⚽ Eintracht Frankfurt vs FC Köln (TÔM CHIÊN) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzUxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxhMmJlZGhuaWFlbnMzaDkwMzQwenc5ag/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Le Mans vs Toulouse FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/le-mans-7758" group-title="Bia Ôm TV",01:45 17/10 ⚽ Le Mans vs Toulouse FC (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1ODE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om0wMG8xZzFxaXJjY3k2Mmk5MWp1MGIzcA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Le Mans vs Toulouse FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/le-mans-7758" group-title="Bia Ôm TV",01:45 17/10 ⚽ Le Mans vs Toulouse FC (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1ODE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om0wMG8xZzFxaXJjY3k2Mmk5MWp1MGIzcA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" group-title="Bia Ôm TV",01:45 17/10 ⚽ Frosinone vs Sassuolo (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1NTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm11cnhnbW40ZWtoejB4OWZuNmh5b2d0OA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Frosinone vs Sassuolo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/frosinone-4070" group-title="Bia Ôm TV",01:45 17/10 ⚽ Frosinone vs Sassuolo (Vịt Nướng) [hls]
