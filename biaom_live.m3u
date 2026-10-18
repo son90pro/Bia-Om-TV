@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Wuhan Three Towns vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wuhan-three-towns-235302" group-title="Bia Ôm TV",17:00 18/10 ⚽ Wuhan Three Towns vs Shanghai Shenhua (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzQ1OTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm9vMGR5NjlmYWJkNW16eDBvaGg2OHJwcw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Wuhan Three Towns vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wuhan-three-towns-235302" group-title="Bia Ôm TV",17:00 18/10 ⚽ Wuhan Three Towns vs Shanghai Shenhua (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzQ1OTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm9vMGR5NjlmYWJkNW16eDBvaGg2OHJwcw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Udinese vs Lecce" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Bia Ôm TV",17:30 18/10 ⚽ Udinese vs Lecce (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrc2c0OHR0eDF0aDc4YWNscnZ2b2cyYQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Udinese vs Lecce" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Bia Ôm TV",17:30 18/10 ⚽ Udinese vs Lecce (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrc2c0OHR0eDF0aDc4YWNscnZ2b2cyYQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Osasuna vs Racing Santander" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/osasuna-459" group-title="Bia Ôm TV",19:00 18/10 ⚽ Osasuna vs Racing Santander (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NTY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmw5bXBtZmFkdmRxOG92dm5uY3MybzhiMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Osasuna vs Racing Santander" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/osasuna-459" group-title="Bia Ôm TV",19:00 18/10 ⚽ Osasuna vs Racing Santander (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmw5bXBtZmFkdmRxOG92dm5uY3MybzhiMw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fiorentina vs Como" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Bia Ôm TV",20:00 18/10 ⚽ Fiorentina vs Como (333) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1NTY6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmdpOG0wb2JrZmtqd291MWtwbHFraGVoNw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Fiorentina vs Como" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Bia Ôm TV",20:00 18/10 ⚽ Fiorentina vs Como (333) [hls]
