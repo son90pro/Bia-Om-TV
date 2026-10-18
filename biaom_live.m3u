@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",01:45 19/10 ⚽ Juventus vs Lazio (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnhzMDE5cWtpa2Znb3hhMXozbWRkZ3RueQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",01:45 19/10 ⚽ Juventus vs Lazio (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnhzMDE5cWtpa2Znb3hhMXozbWRkZ3RueQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Olympique Lyon vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-lyonnais-79" group-title="Bia Ôm TV",01:45 19/10 ⚽ Olympique Lyon vs OGC Nice (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1Nzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnV3ampnenVpZHoxMmVscHd4OTd4MmJleA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Olympique Lyon vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-lyonnais-79" group-title="Bia Ôm TV",01:45 19/10 ⚽ Olympique Lyon vs OGC Nice (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1Nzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnV3ampnenVpZHoxMmVscHd4OTd4MmJleA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 19/10 ⚽ Real Madrid vs Sevilla (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnpodnkzbzV4MjY2cXVidnJjMXZ4dmNhYQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Sevilla" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",02:00 19/10 ⚽ Real Madrid vs Sevilla (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnpodnkzbzV4MjY2cXVidnJjMXZ4dmNhYQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 19/10 ⚽ Công an TP.Hồ Chí Minh vs Thể Công-Viettel (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzI5MjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnQ1NHMzNnpkMTVweGt6dHc5cXZrajYwNg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 19/10 ⚽ Công an TP.Hồ Chí Minh vs Thể Công-Viettel (ASAHI) [hls]
