@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 19/10 ⚽ Công an TP.Hồ Chí Minh vs Thể Công-Viettel (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnQ1NHMzNnpkMTVweGt6dHc5cXZrajYwNg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 19/10 ⚽ Công an TP.Hồ Chí Minh vs Thể Công-Viettel (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnQ1NHMzNnpkMTVweGt6dHc5cXZrajYwNg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al-Fayha vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/alfayha-17724" group-title="Bia Ôm TV",22:05 19/10 ⚽ Al-Fayha vs Al Ahli (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pZXZ5aXEyMjRsNmxsbWV5ZnozZDV5dw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Al-Fayha vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/alfayha-17724" group-title="Bia Ôm TV",22:05 19/10 ⚽ Al-Fayha vs Al Ahli (Lẩu Ếch) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pZXZ5aXEyMjRsNmxsbWV5ZnozZDV5dw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monza vs Cagliari" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Bia Ôm TV",23:30 19/10 ⚽ Monza vs Cagliari (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnk3N3VhNW1iZXRwenJ1Z2xwNTQ0NjJreA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Monza vs Cagliari" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Bia Ôm TV",23:30 19/10 ⚽ Monza vs Cagliari (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnk3N3VhNW1iZXRwenJ1Z2xwNTQ0NjJreA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trabzonspor vs Beşiktaş" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="Bia Ôm TV",00:00 20/10 ⚽ Trabzonspor vs Beşiktaş (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3NDY1OTE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmplYTdweWhoMjdpcWYybnZyb3hwMmJwaw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Trabzonspor vs Beşiktaş" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="Bia Ôm TV",00:00 20/10 ⚽ Trabzonspor vs Beşiktaş (NEM NƯỚNG) [hls]
@@ -23,7 +23,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9
 https://cdnflv.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Bia Ôm TV",02:00 20/10 ⚽ Getafe vs Rayo Vallecano (Lẩu Ếch) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TÔM CHIÊN) [flv]
+#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TÔM CHIÊN) [hls]
+#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8
