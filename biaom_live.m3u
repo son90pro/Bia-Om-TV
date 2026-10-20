@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Al Hilal vs Al Hazm" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="Bia Ôm TV",01:00 20/10 ⚽ Al Hilal vs Al Hazm (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om4xZTJzYWMwenEycjUzMzEzcTM4ODNuNg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Hilal vs Al Hazm" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="Bia Ôm TV",01:00 20/10 ⚽ Al Hilal vs Al Hazm (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om4xZTJzYWMwenEycjUzMzEzcTM4ODNuNg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Parma vs Torino FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/parma-398" group-title="Bia Ôm TV",01:45 20/10 ⚽ Parma vs Torino FC (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm91bWc2YmJweG9yN2w5NWVweWwwcG9lYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Parma vs Torino FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/parma-398" group-title="Bia Ôm TV",01:45 20/10 ⚽ Parma vs Torino FC (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm91bWc2YmJweG9yN2w5NWVweWwwcG9lYg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Bia Ôm TV",02:00 20/10 ⚽ Getafe vs Rayo Vallecano (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Getafe vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Bia Ôm TV",02:00 20/10 ⚽ Getafe vs Rayo Vallecano (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tottenham Hotspur vs Coventry City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Bia Ôm TV",02:00 20/10 ⚽ Tottenham Hotspur vs Coventry City (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bhayangkara vs PSIM Yogyakarta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" group-title="Bia Ôm TV",19:00 20/10 ⚽ Bhayangkara vs PSIM Yogyakarta (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4MTM1Mjk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmsxdmsyeGlqaXlkZHNrbDFsdmF2ZDdrNA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Bhayangkara vs PSIM Yogyakarta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" group-title="Bia Ôm TV",19:00 20/10 ⚽ Bhayangkara vs PSIM Yogyakarta (ASAHI) [hls]
