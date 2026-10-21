@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="FC Tokyo vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-tokyo-2988" group-title="Bia Ôm TV",17:00 21/10 ⚽ FC Tokyo vs Kashiwa Reysol (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTkxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnBvMzUyaDd0NGp0Nm4xNjlubXh5NXNlMg.flv
-#EXTINF:-1 tvg-id="" tvg-name="FC Tokyo vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-tokyo-2988" group-title="Bia Ôm TV",17:00 21/10 ⚽ FC Tokyo vs Kashiwa Reysol (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTkxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnBvMzUyaDd0NGp0Nm4xNjlubXh5NXNlMg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Avispa Fukuoka vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" group-title="Bia Ôm TV",17:00 21/10 ⚽ Avispa Fukuoka vs Gamba Osaka (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTkxMTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOng0cnVlZ2Q3cG9nem4yOTk0dHJwY2podA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Avispa Fukuoka vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" group-title="Bia Ôm TV",17:00 21/10 ⚽ Avispa Fukuoka vs Gamba Osaka (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTkxMTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOng0cnVlZ2Q3cG9nem4yOTk0dHJwY2podA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs JEF United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 21/10 ⚽ Urawa Red Diamonds vs JEF United (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTkxMjA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Oms0MWlvNXZwNjB1eThsa3l0bTMzNzR1cQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs JEF United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 21/10 ⚽ Urawa Red Diamonds vs JEF United (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTkxMjA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Oms0MWlvNXZwNjB1eThsa3l0bTMzNzR1cQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Persija vs Arema" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persija-6733" group-title="Bia Ôm TV",19:00 21/10 ⚽ Persija vs Arema (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1MzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRvam44azQ3MnJsMmFpaWFvcDNheGxqbA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Persija vs Arema" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persija-6733" group-title="Bia Ôm TV",19:00 21/10 ⚽ Persija vs Arema (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1MzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRvam44azQ3MnJsMmFpaWFvcDNheGxqbA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Galatasaray" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",23:45 21/10 ⚽ LOSC Lille vs Galatasaray (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzMyNTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmw3eHg3eHAzank0YWlyeXl4dG04ejVodg.flv
 #EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Galatasaray" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",23:45 21/10 ⚽ LOSC Lille vs Galatasaray (TRÚC BẠCH) [hls]
@@ -47,3 +31,39 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MDg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN
 https://cdnflv.xbdbotv.live/live/MTk4NzM2OTM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmlzdGJ0aDczbnNvM3Y0MHM2N2lpOTVpcg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Aston Villa vs Viking" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Bia Ôm TV",02:00 22/10 ⚽ Aston Villa vs Viking (TIGER) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NzM2OTM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmlzdGJ0aDczbnNvM3Y0MHM2N2lpOTVpcg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PSM vs Persebaya Surabaya" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/psm-2461" group-title="Bia Ôm TV",15:30 22/10 ⚽ PSM vs Persebaya Surabaya (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4MTM1MzM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Onc1dWlseTRpNTYxaXQ2dGtpNzhoeGptaA.flv
+#EXTINF:-1 tvg-id="" tvg-name="PSM vs Persebaya Surabaya" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/psm-2461" group-title="Bia Ôm TV",15:30 22/10 ⚽ PSM vs Persebaya Surabaya (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4MTM1MzM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Onc1dWlseTRpNTYxaXQ2dGtpNzhoeGptaA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persik Kediri vs PSS Sleman" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" group-title="Bia Ôm TV",15:30 22/10 ⚽ Persik Kediri vs PSS Sleman (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4MTM1MzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpqZ285enZxMnV4dGNidWxyaDllYjl0dA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Persik Kediri vs PSS Sleman" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" group-title="Bia Ôm TV",15:30 22/10 ⚽ Persik Kediri vs PSS Sleman (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4MTM1MzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpqZ285enZxMnV4dGNidWxyaDllYjl0dA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madura United vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 22/10 ⚽ Madura United vs Persib (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4MTM1MzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOng5YTV5aGQ0cjA1bnQ2aGozaDJubmpsaA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Madura United vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 22/10 ⚽ Madura United vs Persib (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4MTM1MzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOng5YTV5aGQ0cjA1bnQ2aGozaDJubmpsaA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Công an Hà Nội vs Đông Á Thanh Hoá" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV",19:15 22/10 ⚽ Công an Hà Nội vs Đông Á Thanh Hoá (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI5MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJhNTJvYW1oYndkdDNrbXNnMGFtZDFnag.flv
+#EXTINF:-1 tvg-id="" tvg-name="Công an Hà Nội vs Đông Á Thanh Hoá" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Bia Ôm TV",19:15 22/10 ⚽ Công an Hà Nội vs Đông Á Thanh Hoá (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJhNTJvYW1oYndkdDNrbXNnMGFtZDFnag/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kairat vs Panathinaikos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kairat-3108" group-title="Bia Ôm TV",21:30 22/10 ⚽ Kairat vs Panathinaikos (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Kairat vs Panathinaikos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kairat-3108" group-title="Bia Ôm TV",21:30 22/10 ⚽ Kairat vs Panathinaikos (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFI vs Bayer Leverkusen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ofi-118" group-title="Bia Ôm TV",23:45 22/10 ⚽ OFI vs Bayer Leverkusen (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg.flv
+#EXTINF:-1 tvg-id="" tvg-name="OFI vs Bayer Leverkusen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ofi-118" group-title="Bia Ôm TV",23:45 22/10 ⚽ OFI vs Bayer Leverkusen (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" group-title="Bia Ôm TV",23:45 22/10 ⚽ Lech Poznań vs Sunderland (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" group-title="Bia Ôm TV",23:45 22/10 ⚽ Lech Poznań vs Sunderland (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sturm Graz vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sturm-graz-3357" group-title="Bia Ôm TV",23:45 22/10 ⚽ Sturm Graz vs Olympique Marseille (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Sturm Graz vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sturm-graz-3357" group-title="Bia Ôm TV",23:45 22/10 ⚽ Sturm Graz vs Olympique Marseille (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Stade Rennais" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",23:45 22/10 ⚽ Juventus vs Stade Rennais (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Stade Rennais" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",23:45 22/10 ⚽ Juventus vs Stade Rennais (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw/index.m3u8
