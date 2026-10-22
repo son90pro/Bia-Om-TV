@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Kairat vs Panathinaikos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kairat-3108" group-title="Bia Ôm TV",21:30 22/10 ⚽ Kairat vs Panathinaikos (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Kairat vs Panathinaikos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kairat-3108" group-title="Bia Ôm TV",21:30 22/10 ⚽ Kairat vs Panathinaikos (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OFI vs Bayer Leverkusen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ofi-118" group-title="Bia Ôm TV",23:45 22/10 ⚽ OFI vs Bayer Leverkusen (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg.flv
-#EXTINF:-1 tvg-id="" tvg-name="OFI vs Bayer Leverkusen" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ofi-118" group-title="Bia Ôm TV",23:45 22/10 ⚽ OFI vs Bayer Leverkusen (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" group-title="Bia Ôm TV",23:45 22/10 ⚽ Lech Poznań vs Sunderland (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" group-title="Bia Ôm TV",23:45 22/10 ⚽ Lech Poznań vs Sunderland (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM4MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhmOXU2aTNpNTZiaXM2amkxN202ZnB4Ng/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sturm Graz vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sturm-graz-3357" group-title="Bia Ôm TV",23:45 22/10 ⚽ Sturm Graz vs Olympique Marseille (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sturm Graz vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sturm-graz-3357" group-title="Bia Ôm TV",23:45 22/10 ⚽ Sturm Graz vs Olympique Marseille (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM4MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxidnI3cTk0dHhmZDBjdHZ5N3BxcmxvbA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Stade Rennais" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",23:45 22/10 ⚽ Juventus vs Stade Rennais (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Stade Rennais" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",23:45 22/10 ⚽ Juventus vs Stade Rennais (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM4MTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5ZDlucGE0eTVybDk1bHBud2lmaGZhbw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ajax Amsterdam vs Atalanta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ajax-629" group-title="Bia Ôm TV",02:00 23/10 ⚽ Ajax Amsterdam vs Atalanta (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzQwMTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1pZXcwOWE3d2djMjViNG95NG1mNDVnag.flv
 #EXTINF:-1 tvg-id="" tvg-name="Ajax Amsterdam vs Atalanta" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ajax-629" group-title="Bia Ôm TV",02:00 23/10 ⚽ Ajax Amsterdam vs Atalanta (TRÚC BẠCH) [hls]
@@ -67,3 +47,23 @@ https://cdnhls.xbdbotv.live/live/MTk3MzU0MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnR
 https://cdnflv.xbdbotv.live/live/MTk3MzU0Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmtkZGxjazYzczZ3bXdyNGhvd2hkeDJ5bg.flv
 #EXTINF:-1 tvg-id="" tvg-name="VfL Bochum 1848 vs VfL Wolfsburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfl-bochum-1848-999" group-title="Bia Ôm TV",23:30 23/10 ⚽ VfL Bochum 1848 vs VfL Wolfsburg (333) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmtkZGxjazYzczZ3bXdyNGhvd2hkeDJ5bg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Monza" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 24/10 ⚽ Torino FC vs Monza (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmtycW5pNjU3NDB6b2ZlMnF5aGNsbnl5dw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Monza" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 24/10 ⚽ Torino FC vs Monza (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmtycW5pNjU3NDB6b2ZlMnF5aGNsbnl5dw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brest vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Bia Ôm TV",01:45 24/10 ⚽ Brest vs OGC Nice (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9jYWF1YzRvMXNrNXRmMzlnZHdxMXlrdw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Brest vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Bia Ôm TV",01:45 24/10 ⚽ Brest vs OGC Nice (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9jYWF1YzRvMXNrNXRmMzlnZHdxMXlrdw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportivo Alavés vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="Bia Ôm TV",02:00 24/10 ⚽ Deportivo Alavés vs Málaga (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Deportivo Alavés vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="Bia Ôm TV",02:00 24/10 ⚽ Deportivo Alavés vs Málaga (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Bia Ôm TV",02:00 24/10 ⚽ Ipswich Town vs Nottingham Forest (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Bia Ôm TV",02:00 24/10 ⚽ Ipswich Town vs Nottingham Forest (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8
