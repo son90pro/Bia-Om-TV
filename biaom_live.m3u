@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Al Faisaly vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-faisaly-6883" group-title="Bia Ôm TV",20:30 23/10 ⚽ Al Faisaly vs Al Nassr (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnUxd2xyN2FpbGN1M2IzNWhnYXk0emk5Ng.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Faisaly vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-faisaly-6883" group-title="Bia Ôm TV",20:30 23/10 ⚽ Al Faisaly vs Al Nassr (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnUxd2xyN2FpbGN1M2IzNWhnYXk0emk5Ng/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Al Draih" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",22:30 23/10 ⚽ Al Ittihad vs Al Draih (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NjE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om5sbDBxZTNlODlpeHI3dmEwMmU1em16cQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Al Draih" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",22:30 23/10 ⚽ Al Ittihad vs Al Draih (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NjE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om5sbDBxZTNlODlpeHI3dmEwMmU1em16cQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Darmstadt 98 vs FC St. Pauli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/darmstadt-98-482" group-title="Bia Ôm TV",23:30 23/10 ⚽ Darmstadt 98 vs FC St. Pauli (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzU0MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmcmF4OWI5dm9xN3pucG10ajhybnJhcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Darmstadt 98 vs FC St. Pauli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/darmstadt-98-482" group-title="Bia Ôm TV",23:30 23/10 ⚽ Darmstadt 98 vs FC St. Pauli (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzU0MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmcmF4OWI5dm9xN3pucG10ajhybnJhcQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VfL Bochum 1848 vs VfL Wolfsburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfl-bochum-1848-999" group-title="Bia Ôm TV",23:30 23/10 ⚽ VfL Bochum 1848 vs VfL Wolfsburg (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzU0Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmtkZGxjazYzczZ3bXdyNGhvd2hkeDJ5bg.flv
-#EXTINF:-1 tvg-id="" tvg-name="VfL Bochum 1848 vs VfL Wolfsburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfl-bochum-1848-999" group-title="Bia Ôm TV",23:30 23/10 ⚽ VfL Bochum 1848 vs VfL Wolfsburg (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmtkZGxjazYzczZ3bXdyNGhvd2hkeDJ5bg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [hls]
