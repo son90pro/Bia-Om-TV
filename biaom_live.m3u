@@ -1,21 +1,45 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="VfB Stuttgart vs Borussia Mönchengladbach" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Bia Ôm TV",01:30 24/10 ⚽ VfB Stuttgart vs Borussia Mönchengladbach (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Monza" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 24/10 ⚽ Torino FC vs Monza (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmtycW5pNjU3NDB6b2ZlMnF5aGNsbnl5dw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Torino FC vs Monza" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Bia Ôm TV",01:45 24/10 ⚽ Torino FC vs Monza (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmtycW5pNjU3NDB6b2ZlMnF5aGNsbnl5dw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brest vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Bia Ôm TV",01:45 24/10 ⚽ Brest vs OGC Nice (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9jYWF1YzRvMXNrNXRmMzlnZHdxMXlrdw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Brest vs OGC Nice" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Bia Ôm TV",01:45 24/10 ⚽ Brest vs OGC Nice (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9jYWF1YzRvMXNrNXRmMzlnZHdxMXlrdw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportivo Alavés vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="Bia Ôm TV",02:00 24/10 ⚽ Deportivo Alavés vs Málaga (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Deportivo Alavés vs Málaga" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="Bia Ôm TV",02:00 24/10 ⚽ Deportivo Alavés vs Málaga (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Bia Ôm TV",02:00 24/10 ⚽ Ipswich Town vs Nottingham Forest (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Bia Ôm TV",02:00 24/10 ⚽ Ipswich Town vs Nottingham Forest (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Bia Ôm TV",18:30 24/10 ⚽ Aston Villa vs Manchester City (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRndHZucXV2aGltaGNlOGNocWRpMzBsMA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Aston Villa vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Bia Ôm TV",18:30 24/10 ⚽ Aston Villa vs Manchester City (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRndHZucXV2aGltaGNlOGNocWRpMzBsMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rayo Vallecano vs Elche" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="Bia Ôm TV",19:00 24/10 ⚽ Rayo Vallecano vs Elche (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmY2YXByMTFmYTg0b3B0bHU5cGFoNjlhNw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Rayo Vallecano vs Elche" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="Bia Ôm TV",19:00 24/10 ⚽ Rayo Vallecano vs Elche (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmY2YXByMTFmYTg0b3B0bHU5cGFoNjlhNw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Como vs Sassuolo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Bia Ôm TV",20:00 24/10 ⚽ Como vs Sassuolo (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnM5Y3FocWhnejA2Zm01YTJiejh6anhnag.flv
+#EXTINF:-1 tvg-id="" tvg-name="Como vs Sassuolo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Bia Ôm TV",20:00 24/10 ⚽ Como vs Sassuolo (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnM5Y3FocWhnejA2Zm01YTJiejh6anhnag/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cagliari vs Bologna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Bia Ôm TV",20:00 24/10 ⚽ Cagliari vs Bologna (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1xYjA4cXRlYmVsZDE1a3huZ3Z4dHF1eQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Cagliari vs Bologna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Bia Ôm TV",20:00 24/10 ⚽ Cagliari vs Bologna (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1xYjA4cXRlYmVsZDE1a3huZ3Z4dHF1eQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Fulham" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",21:00 24/10 ⚽ Coventry City vs Fulham (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMzA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onpra2R4YWNjcDFyNWxsdnd2ajVxc3Nvbw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Coventry City vs Fulham" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Bia Ôm TV",21:00 24/10 ⚽ Coventry City vs Fulham (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onpra2R4YWNjcDFyNWxsdnd2ajVxc3Nvbw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",21:00 24/10 ⚽ Arsenal vs Everton (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMzM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRzZmoxdG1odGRuZ2JvaXR4b3FlZzR3Nw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Bia Ôm TV",21:00 24/10 ⚽ Arsenal vs Everton (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRzZmoxdG1odGRuZ2JvaXR4b3FlZzR3Nw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Racing Santander vs Espanyol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Bia Ôm TV",21:15 24/10 ⚽ Racing Santander vs Espanyol (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmF2NzZkYXlqOTQ0d3d4M3VyZWFnaHlzdQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Racing Santander vs Espanyol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Bia Ôm TV",21:15 24/10 ⚽ Racing Santander vs Espanyol (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmF2NzZkYXlqOTQ0d3d4M3VyZWFnaHlzdQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Napoli vs AS Roma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",23:00 24/10 ⚽ Napoli vs AS Roma (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Napoli vs AS Roma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",23:00 24/10 ⚽ Napoli vs AS Roma (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Valencia vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Bia Ôm TV",23:30 24/10 ⚽ Valencia vs Villarreal (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Valencia vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Bia Ôm TV",23:30 24/10 ⚽ Valencia vs Villarreal (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono3ZnA3cmVqbjVwN3NiYTk2ejZtenh5OQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono3ZnA3cmVqbjVwN3NiYTk2ejZtenh5OQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Bia Ôm TV",23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Bia Ôm TV",23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ/index.m3u8
