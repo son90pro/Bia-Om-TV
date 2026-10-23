@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MTY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnh3NXlvdHh3ejBrbHNhdTZjYzl2ZndjaA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Perth Glory" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 23/10 ⚽ Brisbane Roar vs Perth Glory (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MTY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnh3NXlvdHh3ejBrbHNhdTZjYzl2ZndjaA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hoàng Anh Gia Lai vs Sông Lam Nghệ An" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hoang-anh-gia-lai-2847" group-title="Bia Ôm TV",17:00 23/10 ⚽ Hoàng Anh Gia Lai vs Sông Lam Nghệ An (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MjQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omx5am85anYyd2kyMXp2YjRsaWZqZ2c0ZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hoàng Anh Gia Lai vs Sông Lam Nghệ An" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hoang-anh-gia-lai-2847" group-title="Bia Ôm TV",17:00 23/10 ⚽ Hoàng Anh Gia Lai vs Sông Lam Nghệ An (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MjQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omx5am85anYyd2kyMXp2YjRsaWZqZ2c0ZQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thể Công-Viettel vs Bắc Ninh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Bia Ôm TV",19:15 23/10 ⚽ Thể Công-Viettel vs Bắc Ninh (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omc5bzVib3F5eTNudjJqZTBkOG9hdDFndw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Thể Công-Viettel vs Bắc Ninh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Bia Ôm TV",19:15 23/10 ⚽ Thể Công-Viettel vs Bắc Ninh (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omc5bzVib3F5eTNudjJqZTBkOG9hdDFndw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Faisaly vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-faisaly-6883" group-title="Bia Ôm TV",20:30 23/10 ⚽ Al Faisaly vs Al Nassr (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnUxd2xyN2FpbGN1M2IzNWhnYXk0emk5Ng.flv
 #EXTINF:-1 tvg-id="" tvg-name="Al Faisaly vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-faisaly-6883" group-title="Bia Ôm TV",20:30 23/10 ⚽ Al Faisaly vs Al Nassr (Vịt Nướng) [hls]
