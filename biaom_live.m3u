@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs AS Roma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",23:00 24/10 ⚽ Napoli vs AS Roma (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs AS Roma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",23:00 24/10 ⚽ Napoli vs AS Roma (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Valencia vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Bia Ôm TV",23:30 24/10 ⚽ Valencia vs Villarreal (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Valencia vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Bia Ôm TV",23:30 24/10 ⚽ Valencia vs Villarreal (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono3ZnA3cmVqbjVwN3NiYTk2ejZtenh5OQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",23:30 24/10 ⚽ Borussia Dortmund vs Eintracht Frankfurt (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono3ZnA3cmVqbjVwN3NiYTk2ejZtenh5OQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chelsea vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Bia Ôm TV",23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Chelsea vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Bia Ôm TV",23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Riyadh vs Al Taawoun" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Bia Ôm TV",01:00 25/10 ⚽ Al Riyadh vs Al Taawoun (ASAHI) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnliZHkyeDJpcDc2M3RydHFrazJxbnl0ZA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Al Riyadh vs Al Taawoun" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Bia Ôm TV",01:00 25/10 ⚽ Al Riyadh vs Al Taawoun (ASAHI) [hls]
@@ -35,3 +19,71 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8
 https://cdnflv.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag.flv
 #EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Deportivo La Coruña" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 25/10 ⚽ Atlético Madrid vs Deportivo La Coruña (TÔM CHIÊN) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ninh Bình vs Công an TP.Hồ Chí Minh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ninh-binh-235488" group-title="Bia Ôm TV",18:00 25/10 ⚽ Ninh Bình vs Công an TP.Hồ Chí Minh (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI5Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnVlM2Y0OXkzem92ODJ1cnkxem1vOGx1YQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Ninh Bình vs Công an TP.Hồ Chí Minh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ninh-binh-235488" group-title="Bia Ôm TV",18:00 25/10 ⚽ Ninh Bình vs Công an TP.Hồ Chí Minh (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI5Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnVlM2Y0OXkzem92ODJ1cnkxem1vOGx1YQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHB Đà Nẵng vs Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Bia Ôm TV",18:00 25/10 ⚽ SHB Đà Nẵng vs Hà Nội (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NzI5Mjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpiNXhkeWVzcTlqbDh0ZWN6eXgya3pydg.flv
+#EXTINF:-1 tvg-id="" tvg-name="SHB Đà Nẵng vs Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Bia Ôm TV",18:00 25/10 ⚽ SHB Đà Nẵng vs Hà Nội (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NzI5Mjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpiNXhkeWVzcTlqbDh0ZWN6eXgya3pydg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",18:30 25/10 ⚽ Inter Milan vs Fiorentina (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOncxaGkzeWdnb2FqcWhqM29nMmp1YnFwcA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Bia Ôm TV",18:30 25/10 ⚽ Inter Milan vs Fiorentina (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOncxaGkzeWdnb2FqcWhqM29nMmp1YnFwcA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Getafe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",20:00 25/10 ⚽ Athletic Bilbao vs Getafe (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NTE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhjcXRnOXF5NXV4ZXhmYXM2Ym95c2M4cQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Getafe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",20:00 25/10 ⚽ Athletic Bilbao vs Getafe (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NTE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhjcXRnOXF5NXV4ZXhmYXM2Ym95c2M4cQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Bia Ôm TV",21:00 25/10 ⚽ Manchester United vs AFC Bournemouth (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9uY3d1ZnU3ajVqZ25yNTd6cnNzamdwaA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Manchester United vs AFC Bournemouth" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Bia Ôm TV",21:00 25/10 ⚽ Manchester United vs AFC Bournemouth (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9uY3d1ZnU3ajVqZ25yNTd6cnNzamdwaA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Brighton & Hove Albion" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",21:00 25/10 ⚽ Liverpool vs Brighton & Hove Albion (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjY6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnJ6azIwemV6Mm5ndjd5Nmlud3BycHJxbA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Brighton & Hove Albion" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",21:00 25/10 ⚽ Liverpool vs Brighton & Hove Albion (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjY6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnJ6azIwemV6Mm5ndjd5Nmlud3BycHJxbA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hull City vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hull-city-22" group-title="Bia Ôm TV",21:00 25/10 ⚽ Hull City vs Brentford (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm84czhzbDNhNm5ndmM1eTUxa3ZjcTRkbw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Hull City vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hull-city-22" group-title="Bia Ôm TV",21:00 25/10 ⚽ Hull City vs Brentford (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm84czhzbDNhNm5ndmM1eTUxa3ZjcTRkbw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="Bia Ôm TV",21:00 25/10 ⚽ Crystal Palace vs Newcastle United (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndnZm1hZm5zdzJtc2l6bmpjNHJ3cmg4eg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Crystal Palace vs Newcastle United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="Bia Ôm TV",21:00 25/10 ⚽ Crystal Palace vs Newcastle United (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndnZm1hZm5zdzJtc2l6bmpjNHJ3cmg4eg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celta-de-vigo-36" group-title="Bia Ôm TV",22:15 25/10 ⚽ Celta Vigo vs Real Betis (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oml0Mm1kZTN5Z2Jka2Fua3l1cjdyN3JyNA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Celta Vigo vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celta-de-vigo-36" group-title="Bia Ôm TV",22:15 25/10 ⚽ Celta Vigo vs Real Betis (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oml0Mm1kZTN5Z2Jka2Fua3l1cjdyN3JyNA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympique Marseille vs Le Havre" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Bia Ôm TV",23:15 25/10 ⚽ Olympique Marseille vs Le Havre (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1NzA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRnZXpvdjRmNXFqOW5vam5jYnoyNnN2cw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Olympique Marseille vs Le Havre" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Bia Ôm TV",23:15 25/10 ⚽ Olympique Marseille vs Le Havre (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NzA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRnZXpvdjRmNXFqOW5vam5jYnoyNnN2cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SC Freiburg vs Bayern Munich" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-freiburg-3543" group-title="Bia Ôm TV",23:30 25/10 ⚽ SC Freiburg vs Bayern Munich (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzUxMzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmIwcTl6MWMzNWY1bHhpd2l1MWF0NHQ2cg.flv
+#EXTINF:-1 tvg-id="" tvg-name="SC Freiburg vs Bayern Munich" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-freiburg-3543" group-title="Bia Ôm TV",23:30 25/10 ⚽ SC Freiburg vs Bayern Munich (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzUxMzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmIwcTl6MWMzNWY1bHhpd2l1MWF0NHQ2cg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sunderland vs Leeds United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Bia Ôm TV",23:30 25/10 ⚽ Sunderland vs Leeds United (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMjQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmUwNm5mMWk3ZXQ1bGYzYWxyYWtxMHMzMA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Sunderland vs Leeds United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Bia Ôm TV",23:30 25/10 ⚽ Sunderland vs Leeds United (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMjQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmUwNm5mMWk3ZXQ1bGYzYWxyYWtxMHMzMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 26/10 ⚽ Lecce vs Juventus (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpuOGRsNWEyc2lqMjVsb3kxd3o0d21zcQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 26/10 ⚽ Lecce vs Juventus (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpuOGRsNWEyc2lqMjVsb3kxd3o0d21zcQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Levante" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",00:30 26/10 ⚽ Real Sociedad vs Levante (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdvYWN6ajY5bjIyY3g0dXh6OGYycnZnbA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Levante" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",00:30 26/10 ⚽ Real Sociedad vs Levante (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdvYWN6ajY5bjIyY3g0dXh6OGYycnZnbA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Udinese vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Bia Ôm TV",02:45 26/10 ⚽ Udinese vs Milan (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1Mzg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhtN2FuY2h3Z2cybmxyNG92MW5rajFzZQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Udinese vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Bia Ôm TV",02:45 26/10 ⚽ Udinese vs Milan (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhtN2FuY2h3Z2cybmxyNG92MW5rajFzZQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 26/10 ⚽ FC Barcelona vs Real Madrid (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmoxZmg3dnBuOWM5ZDJpOGQwNWhnY2lpNA.flv
+#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 26/10 ⚽ FC Barcelona vs Real Madrid (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmoxZmg3dnBuOWM5ZDJpOGQwNWhnY2lpNA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 26/10 ⚽ FC Barcelona vs Real Madrid (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmxwODBkemhwdzZoN3JnZHlkbzgzcXgzNg.flv
+#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 26/10 ⚽ FC Barcelona vs Real Madrid (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmxwODBkemhwdzZoN3JnZHlkbzgzcXgzNg/index.m3u8
