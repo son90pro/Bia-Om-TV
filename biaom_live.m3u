@@ -43,3 +43,23 @@ https://cdnhls.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono
 https://cdnflv.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Chelsea vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Bia Ôm TV",23:30 24/10 ⚽ Chelsea vs Tottenham Hotspur (SAPPORO) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Riyadh vs Al Taawoun" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Bia Ôm TV",01:00 25/10 ⚽ Al Riyadh vs Al Taawoun (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3Nzg3NTc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnliZHkyeDJpcDc2M3RydHFrazJxbnl0ZA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Riyadh vs Al Taawoun" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Bia Ôm TV",01:00 25/10 ⚽ Al Riyadh vs Al Taawoun (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnliZHkyeDJpcDc2M3RydHFrazJxbnl0ZA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nürnberg vs Kaiserslautern" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nurnberg-956" group-title="Bia Ôm TV",01:30 25/10 ⚽ Nürnberg vs Kaiserslautern (TRÚC BẠCH) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzU0Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmdieDhueDRveWZ2ZnZweWNuM3o0NmQ1Yw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Nürnberg vs Kaiserslautern" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nurnberg-956" group-title="Bia Ôm TV",01:30 25/10 ⚽ Nürnberg vs Kaiserslautern (TRÚC BẠCH) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmdieDhueDRveWZ2ZnZweWNuM3o0NmQ1Yw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lazio vs Parma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="Bia Ôm TV",01:45 25/10 ⚽ Lazio vs Parma (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1NDI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5NWw3YmpqdmQwZ2l3ajl6amVubTFsYg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lazio vs Parma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="Bia Ôm TV",01:45 25/10 ⚽ Lazio vs Parma (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5NWw3YmpqdmQwZ2l3ajl6amVubTFsYg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lens vs Paris" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",01:45 25/10 ⚽ Lens vs Paris (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm85M2NjeG9memwxZjN3cWtpMzNzaHZ1cw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lens vs Paris" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",01:45 25/10 ⚽ Lens vs Paris (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm85M2NjeG9memwxZjN3cWtpMzNzaHZ1cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Deportivo La Coruña" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 25/10 ⚽ Atlético Madrid vs Deportivo La Coruña (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag.flv
+#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs Deportivo La Coruña" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",02:00 25/10 ⚽ Atlético Madrid vs Deportivo La Coruña (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8
