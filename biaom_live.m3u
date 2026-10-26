@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Al Wasl" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 27/10 ⚽ Al Nassr vs Al Wasl (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnlsbHRsMndubWxrbWNuNjFzZXZiOWRuNQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Nassr vs Al Wasl" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Bia Ôm TV",01:15 27/10 ⚽ Al Nassr vs Al Wasl (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnlsbHRsMndubWxrbWNuNjFzZXZiOWRuNQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs Fenerbahçe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",01:30 27/10 ⚽ Galatasaray vs Fenerbahçe (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NDY1NzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnoyeTZhb3ltbGNyZ3h2d3B0dDkxaTcyaw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Galatasaray vs Fenerbahçe" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Bia Ôm TV",01:30 27/10 ⚽ Galatasaray vs Fenerbahçe (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NDY1NzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnoyeTZhb3ltbGNyZ3h2d3B0dDkxaTcyaw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara vs Benfica" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-2628" group-title="Bia Ôm TV",01:45 27/10 ⚽ Santa Clara vs Benfica (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzY3Nzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdwaGV4Y3c5OXh4N3hjMmF1M3ptbDJ6ZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara vs Benfica" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-2628" group-title="Bia Ôm TV",01:45 27/10 ⚽ Santa Clara vs Benfica (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzY3Nzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdwaGV4Y3c5OXh4N3hjMmF1M3ptbDJ6ZA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sevilla vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676" group-title="Bia Ôm TV",03:00 27/10 ⚽ Sevilla vs Osasuna (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzI2NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZzMjIzbG02NGs0Y3ZkMzl3Yno4dGczaQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Sevilla vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676" group-title="Bia Ôm TV",03:00 27/10 ⚽ Sevilla vs Osasuna (Vịt Nướng) [hls]
