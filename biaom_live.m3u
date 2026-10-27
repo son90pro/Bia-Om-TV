@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Sevilla vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676" group-title="Bia Ôm TV",03:00 27/10 ⚽ Sevilla vs Osasuna (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZzMjIzbG02NGs0Y3ZkMzl3Yno4dGczaQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sevilla vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676" group-title="Bia Ôm TV",03:00 27/10 ⚽ Sevilla vs Osasuna (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZzMjIzbG02NGs0Y3ZkMzl3Yno4dGczaQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shanghai Port vs Công an Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Bia Ôm TV",17:00 27/10 ⚽ Shanghai Port vs Công an Hà Nội (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjcwODg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnJlbXVwY2Zmd2xsYm5qemU3bGxxc3pwMQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Shanghai Port vs Công an Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Bia Ôm TV",17:00 27/10 ⚽ Shanghai Port vs Công an Hà Nội (NEM NƯỚNG) [hls]
