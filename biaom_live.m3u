@@ -1,24 +1,8 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 28/10 ⚽ Yokohama F. Marinos vs Sanfrecce Hiroshima (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzcyNjc6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm8wb3o0Z3FqbnVmY2RqOWc2ODE1Z3JhMA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 28/10 ⚽ Yokohama F. Marinos vs Sanfrecce Hiroshima (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzcyNjc6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm8wb3o0Z3FqbnVmY2RqOWc2ODE1Z3JhMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 28/10 ⚽ Yokohama F. Marinos vs Sanfrecce Hiroshima (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzcyNjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZ3eXNpcGR4MXFub3Y3ODBobDlrOTU2Mg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Sanfrecce Hiroshima" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 28/10 ⚽ Yokohama F. Marinos vs Sanfrecce Hiroshima (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzcyNjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZ3eXNpcGR4MXFub3Y3ODBobDlrOTU2Mg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nagoya-grampus-8738" group-title="Bia Ôm TV",17:00 28/10 ⚽ Nagoya Grampus vs Urawa Red Diamonds (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzcyNjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om85dDd0c29mZHU3b3dwNDMyOHQyeW41Yw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Nagoya Grampus vs Urawa Red Diamonds" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nagoya-grampus-8738" group-title="Bia Ôm TV",17:00 28/10 ⚽ Nagoya Grampus vs Urawa Red Diamonds (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NzcyNjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om85dDd0c29mZHU3b3dwNDMyOHQyeW41Yw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Bia Ôm TV",17:00 28/10 ⚽ Kashima Antlers vs Pohang Steelers (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMjQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmRpbzh3aHUwNjI3eHFla3QwbmVmOWJ0MA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Kashima Antlers vs Pohang Steelers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Bia Ôm TV",17:00 28/10 ⚽ Kashima Antlers vs Pohang Steelers (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMjQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmRpbzh3aHUwNjI3eHFla3QwbmVmOWJ0MA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 28/10 ⚽ Gamba Osaka vs Buriram United (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmFlMmZyczI5Z3NmcGJ2eW82bmxueGtjcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Buriram United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 28/10 ⚽ Gamba Osaka vs Buriram United (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmFlMmZyczI5Z3NmcGJ2eW82bmxueGtjcQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thể Công-Viettel vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Bia Ôm TV",19:15 28/10 ⚽ Thể Công-Viettel vs Seoul (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIzMjI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmU0bnJwbHh1N2ZsMXVmaHM1Y21ncXAyNg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Thể Công-Viettel vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Bia Ôm TV",19:15 28/10 ⚽ Thể Công-Viettel vs Seoul (Vịt Nướng) [hls]
