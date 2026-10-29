@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Adelaide United vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="Bia Ôm TV",14:45 29/10 ⚽ Adelaide United vs Lion City Sailors FC (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyODg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmswcG80aGZjczFqa3cyMmx2dG1qZHVkYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Adelaide United vs Lion City Sailors FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="Bia Ôm TV",14:45 29/10 ⚽ Adelaide United vs Lion City Sailors FC (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyODg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmswcG80aGZjczFqa3cyMmx2dG1qZHVkYg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Svay Rieng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",17:00 29/10 ⚽ Tampines Rovers vs Svay Rieng (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyODM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOngzcW9iaHNpbW02NGR0MTJjNmE1dmNpeg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Svay Rieng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",17:00 29/10 ⚽ Tampines Rovers vs Svay Rieng (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyODM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOngzcW9iaHNpbW02NGR0MTJjNmE1dmNpeg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Kuching FA" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 29/10 ⚽ Gangwon FC vs Kuching FA (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNzk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ1cno1OXBubWYybTlkcjdsaGZvM3ZkdQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Gangwon FC vs Kuching FA" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Bia Ôm TV",17:00 29/10 ⚽ Gangwon FC vs Kuching FA (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyNzk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ1cno1OXBubWYybTlkcjdsaGZvM3ZkdQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs BG Pathum United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",19:15 29/10 ⚽ Wofoo Tai Po vs BG Pathum United (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIyNzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOml5bDcycDBleXp5cHdiNnJ5N29qcTZnZQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Wofoo Tai Po vs BG Pathum United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Bia Ôm TV",19:15 29/10 ⚽ Wofoo Tai Po vs BG Pathum United (TRÚC BẠCH) [hls]
