@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Auckland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 30/10 ⚽ Brisbane Roar vs Auckland (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmVuMXNkZXBkNHU3YXN0djIzem5idGJ6bw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Auckland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 30/10 ⚽ Brisbane Roar vs Auckland (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmVuMXNkZXBkNHU3YXN0djIzem5idGJ6bw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Auckland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 30/10 ⚽ Brisbane Roar vs Auckland (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1wOTV4Mm1mdjE5NmNuOHUzeXd2b2sweA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Brisbane Roar vs Auckland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Bia Ôm TV",16:00 30/10 ⚽ Brisbane Roar vs Auckland (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1wOTV4Mm1mdjE5NmNuOHUzeXd2b2sweA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Đông Á Thanh Hoá vs Hồng Lĩnh Hà Tĩnh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Bia Ôm TV",17:00 30/10 ⚽ Đông Á Thanh Hoá vs Hồng Lĩnh Hà Tĩnh (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnowNjg4OXVjcXpib2s4bGZxNDExamtjMQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Đông Á Thanh Hoá vs Hồng Lĩnh Hà Tĩnh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Bia Ôm TV",17:00 30/10 ⚽ Đông Á Thanh Hoá vs Hồng Lĩnh Hà Tĩnh (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnowNjg4OXVjcXpib2s4bGZxNDExamtjMQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzI5MzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdzd3VmbnhidXc4Y2pwOWZha2lneTl0bw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (Lẩu Ếch) [hls]
@@ -28,13 +16,9 @@ https://cdnflv.xbdbotv.live/live/MTk4NzI5MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnR
 #EXTINF:-1 tvg-id="" tvg-name="Hà Nội vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ha-noi-6334" group-title="Bia Ôm TV",19:15 30/10 ⚽ Hà Nội vs Ninh Bình (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRlOHllOHhibWxlZm9zNHF3bjNlOTZraw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnEybnF2ajBzMGV2amxqdTJ5MGRzNTB6aA.flv
+https://cdnflv.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc0cWZodjBhajZuYnVqZmhwNGFtNGR3OQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnEybnF2ajBzMGV2amxqdTJ5MGRzNTB6aA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omt6YWc5aHN5ZHhleXR2bHJ1b2dsOTJzZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omt6YWc5aHN5ZHhleXR2bHJ1b2dsOTJzZA/index.m3u8
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc0cWZodjBhajZuYnVqZmhwNGFtNGR3OQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Draih vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Bia Ôm TV",21:50 30/10 ⚽ Al Draih vs NEOM SC (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Nzg3NjU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh0NHRxbGR0dTN6MWQ0aGJsbWxpZHJyOA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Al Draih vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Bia Ôm TV",21:50 30/10 ⚽ Al Draih vs NEOM SC (TRÚC BẠCH) [hls]
