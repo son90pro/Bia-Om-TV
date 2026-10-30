@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdzd3VmbnhidXc4Y2pwOWZha2lneTl0bw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdzd3VmbnhidXc4Y2pwOWZha2lneTl0bw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MzE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmpjOTRxcWlwN2g3NHN6Zm11bTdvbWpldA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Bắc Ninh vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bac-ninh-272273" group-title="Bia Ôm TV",18:00 30/10 ⚽ Bắc Ninh vs Hoàng Anh Gia Lai (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MzE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmpjOTRxcWlwN2g3NHN6Zm11bTdvbWpldA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Persebaya Surabaya vs Persijap" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persebaya-surabaya-18240" group-title="Bia Ôm TV",19:00 30/10 ⚽ Persebaya Surabaya vs Persijap (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1NDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmE0Z2U2aGNnaWw5NGRkZ2toa2RpdjFlNQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Persebaya Surabaya vs Persijap" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persebaya-surabaya-18240" group-title="Bia Ôm TV",19:00 30/10 ⚽ Persebaya Surabaya vs Persijap (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1NDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmE0Z2U2aGNnaWw5NGRkZ2toa2RpdjFlNQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hà Nội vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ha-noi-6334" group-title="Bia Ôm TV",19:15 30/10 ⚽ Hà Nội vs Ninh Bình (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRlOHllOHhibWxlZm9zNHF3bjNlOTZraw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Nội vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ha-noi-6334" group-title="Bia Ôm TV",19:15 30/10 ⚽ Hà Nội vs Ninh Bình (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRlOHllOHhibWxlZm9zNHF3bjNlOTZraw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc0cWZodjBhajZuYnVqZmhwNGFtNGR3OQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Ittihad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/abha-5618" group-title="Bia Ôm TV",19:30 30/10 ⚽ Abha vs Al Ittihad (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc0cWZodjBhajZuYnVqZmhwNGFtNGR3OQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Draih vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Bia Ôm TV",21:50 30/10 ⚽ Al Draih vs NEOM SC (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Nzg3NjU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh0NHRxbGR0dTN6MWQ0aGJsbWxpZHJyOA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Draih vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Bia Ôm TV",21:50 30/10 ⚽ Al Draih vs NEOM SC (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NjU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh0NHRxbGR0dTN6MWQ0aGJsbWxpZHJyOA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/konyaspor-2632" group-title="Bia Ôm TV",00:00 31/10 ⚽ Konyaspor vs Galatasaray (333) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3NDY1Njg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnMycW9nZ21pcWVjOGFqMTQ4NW45cDFpeg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/konyaspor-2632" group-title="Bia Ôm TV",00:00 31/10 ⚽ Konyaspor vs Galatasaray (333) [hls]
