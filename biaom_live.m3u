@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Milan vs Inter Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Bia Ôm TV",02:45 01/11 ⚽ Milan vs Inter Milan (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRrOWpjOTRnb243MGJpbDF0YXpubWtnOA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Milan vs Inter Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Bia Ôm TV",02:45 01/11 ⚽ Milan vs Inter Milan (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRrOWpjOTRnb243MGJpbDF0YXpubWtnOA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Troyes vs Le Mans" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Bia Ôm TV",02:45 01/11 ⚽ Troyes vs Le Mans (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN0NDNoMmg1d2FvdXZsbWdoNDZ2NTcydA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Troyes vs Le Mans" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Bia Ôm TV",02:45 01/11 ⚽ Troyes vs Le Mans (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN0NDNoMmg1d2FvdXZsbWdoNDZ2NTcydA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Deportivo Alavés" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA.flv
-#EXTINF:-1 tvg-id="" tvg-name="FC Barcelona vs Deportivo Alavés" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Bia Ôm TV",03:00 01/11 ⚽ FC Barcelona vs Deportivo Alavés (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aston Villa vs Fulham" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Bia Ôm TV",03:00 01/11 ⚽ Aston Villa vs Fulham (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN5N3BueXJwNjBvbHMyYTFmYjFzN3U0aQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Aston Villa vs Fulham" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Bia Ôm TV",03:00 01/11 ⚽ Aston Villa vs Fulham (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN5N3BueXJwNjBvbHMyYTFmYjFzN3U0aQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3NTg4MDU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMzajFhcnQ0MnY4YWhoMmx4ZmdidDF5dw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (TRÚC BẠCH) [hls]
@@ -79,3 +63,27 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMTc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Oml
 https://cdnflv.xbdbotv.live/live/MTk3MjIxMTc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnQ2NXdheTg0d256bTYxdHNldDhzd3NnbA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Liverpool vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Bia Ôm TV",23:30 01/11 ⚽ Liverpool vs Arsenal (Vịt Nướng) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMTc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnQ2NXdheTg0d256bTYxdHNldDhzd3NnbA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1MjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhkeHBsYThrMWE4NWR3Z3drZzh6OGd4aA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhkeHBsYThrMWE4NWR3Z3drZzh6OGd4aA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1MjE6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onk1M3NqaWZsdG90ZHNrYjFqanFoNnI2aA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MjE6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onk1M3NqaWZsdG90ZHNrYjFqanFoNnI2aA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elche vs Valencia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",00:30 02/11 ⚽ Elche vs Valencia (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Elche vs Valencia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",00:30 02/11 ⚽ Elche vs Valencia (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",02:45 02/11 ⚽ Juventus vs Napoli (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Juventus vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",02:45 02/11 ⚽ Juventus vs Napoli (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olympique Marseille vs Toulouse FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Bia Ôm TV",02:45 02/11 ⚽ Olympique Marseille vs Toulouse FC (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Olympique Marseille vs Toulouse FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Bia Ôm TV",02:45 02/11 ⚽ Olympique Marseille vs Toulouse FC (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8
