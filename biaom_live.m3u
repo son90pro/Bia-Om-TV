@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Espanyol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",03:00 31/10 ⚽ Villarreal vs Espanyol (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmU3OTVrb3Q0bzZoMnluNG5zMHJ5ejZsdg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Villarreal vs Espanyol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV",03:00 31/10 ⚽ Villarreal vs Espanyol (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmU3OTVrb3Q0bzZoMnluNG5zMHJ5ejZsdg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Lens" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",03:05 31/10 ⚽ LOSC Lille vs Lens (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1NjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omdjcmg2c293cWR2NHV3c2tjd2x5NXdnYQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Lens" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",03:05 31/10 ⚽ LOSC Lille vs Lens (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omdjcmg2c293cWR2NHV3c2tjd2x5NXdnYQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 31/10 ⚽ Macarthur vs Western Sydney Wanderers (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3NTg4MDc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJkeTJma20zNjYwMHZ3eDQ0emlvOHNmZg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 31/10 ⚽ Macarthur vs Western Sydney Wanderers (NEM NƯỚNG) [hls]
