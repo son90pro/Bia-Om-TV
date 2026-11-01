@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhkeHBsYThrMWE4NWR3Z3drZzh6OGd4aA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhkeHBsYThrMWE4NWR3Z3drZzh6OGd4aA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MjE6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onk1M3NqaWZsdG90ZHNrYjFqanFoNnI2aA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lecce vs Genoa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lecce-7790" group-title="Bia Ôm TV",00:00 02/11 ⚽ Lecce vs Genoa (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjE6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onk1M3NqaWZsdG90ZHNrYjFqanFoNnI2aA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Valencia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",00:30 02/11 ⚽ Elche vs Valencia (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Valencia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",00:30 02/11 ⚽ Elche vs Valencia (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Juventus vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",02:45 02/11 ⚽ Juventus vs Napoli (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Juventus vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Bia Ôm TV",02:45 02/11 ⚽ Juventus vs Napoli (SAPPORO) [hls]
@@ -23,3 +11,51 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN
 https://cdnflv.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 02/11 ⚽ Pakhtakor Tashkent vs Al Nassr (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMzU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmZoNXQybjQ3YTRpODVsbng0YTMwa2Y5Nw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 02/11 ⚽ Pakhtakor Tashkent vs Al Nassr (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMzU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmZoNXQybjQ3YTRpODVsbng0YTMwa2Y5Nw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 02/11 ⚽ Pakhtakor Tashkent vs Al Nassr (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnI4ZDFsaHJiOG5qam1yMWl2OWxvenp4bg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Pakhtakor Tashkent vs Al Nassr" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Bia Ôm TV",20:45 02/11 ⚽ Pakhtakor Tashkent vs Al Nassr (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnI4ZDFsaHJiOG5qam1yMWl2OWxvenp4bg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 02/11 ⚽ Tractor Sazi vs Neftchi (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNkbzdheWZvaDRvdTc0dXkydmJ1cW1zOQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 02/11 ⚽ Tractor Sazi vs Neftchi (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNkbzdheWZvaDRvdTc0dXkydmJ1cW1zOQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 02/11 ⚽ Tractor Sazi vs Neftchi (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnY0ZGlxbjE2bmhzMnFhdGM5enhrZWM0NQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Tractor Sazi vs Neftchi" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Bia Ôm TV",23:00 02/11 ⚽ Tractor Sazi vs Neftchi (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnY0ZGlxbjE2bmhzMnFhdGM5enhrZWM0NQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Wasl vs Al Quwa Al Jawiya" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Bia Ôm TV",23:00 02/11 ⚽ Al Wasl vs Al Quwa Al Jawiya (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnhjYTk0N2RoZ3hqeWVia2Rpbmw4MTVweg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Wasl vs Al Quwa Al Jawiya" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Bia Ôm TV",23:00 02/11 ⚽ Al Wasl vs Al Quwa Al Jawiya (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnhjYTk0N2RoZ3hqeWVia2Rpbmw4MTVweg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Sadd vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-sadd-7283" group-title="Bia Ôm TV",23:00 02/11 ⚽ Al Sadd vs Al Ahli (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4NjcxMTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk4bTRtYTNnM2dtdTAzaGI0eHZyaXRxbw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Al Sadd vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-sadd-7283" group-title="Bia Ôm TV",23:00 02/11 ⚽ Al Sadd vs Al Ahli (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk4bTRtYTNnM2dtdTAzaGI0eHZyaXRxbw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Bia Ôm TV",00:30 03/11 ⚽ Sassuolo vs Fiorentina (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1MTk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmozcjNrcTd3c3owNXdtd3k3cms4eWg3cw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Bia Ôm TV",00:30 03/11 ⚽ Sassuolo vs Fiorentina (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MTk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmozcjNrcTd3c3owNXdtd3k3cms4eWg3cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atalanta vs Parma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Bia Ôm TV",02:45 03/11 ⚽ Atalanta vs Parma (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTM1Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Om1wNHE1NmRjMXNoZXRrZzF6Mjkxcjliag.flv
+#EXTINF:-1 tvg-id="" tvg-name="Atalanta vs Parma" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Bia Ôm TV",02:45 03/11 ⚽ Atalanta vs Parma (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Om1wNHE1NmRjMXNoZXRrZzF6Mjkxcjliag/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lorient vs Brest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lorient-9257" group-title="Bia Ôm TV",02:45 03/11 ⚽ Lorient vs Brest (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MTU1NjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmtvNzdyNngyNHptejN6Y2U2ZzN2aDdjZg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Lorient vs Brest" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lorient-9257" group-title="Bia Ôm TV",02:45 03/11 ⚽ Lorient vs Brest (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmtvNzdyNngyNHptejN6Y2U2ZzN2aDdjZg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportivo La Coruña vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-la-coruna-429" group-title="Bia Ôm TV",03:00 03/11 ⚽ Deportivo La Coruña vs Osasuna (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1xOWl4MGl3ZDJjcXhkZmthcTU3cWQ2OA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Deportivo La Coruña vs Osasuna" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-la-coruna-429" group-title="Bia Ôm TV",03:00 03/11 ⚽ Deportivo La Coruña vs Osasuna (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1xOWl4MGl3ZDJjcXhkZmthcTU3cWQ2OA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle United vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Bia Ôm TV",03:00 03/11 ⚽ Newcastle United vs Everton (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNqdHMyb2M5a2h0d2l1cXhuejRhb2J4Zg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle United vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Bia Ôm TV",03:00 03/11 ⚽ Newcastle United vs Everton (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNqdHMyb2M5a2h0d2l1cXhuejRhb2J4Zg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle United vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Bia Ôm TV",03:00 03/11 ⚽ Newcastle United vs Everton (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg.flv
+#EXTINF:-1 tvg-id="" tvg-name="Newcastle United vs Everton" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Bia Ôm TV",03:00 03/11 ⚽ Newcastle United vs Everton (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg/index.m3u8
