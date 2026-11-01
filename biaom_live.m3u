@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (TRÚC BẠCH) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MDU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMzajFhcnQ0MnY4YWhoMmx4ZmdidDF5dw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (TRÚC BẠCH) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MDU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMzajFhcnQ0MnY4YWhoMmx4ZmdidDF5dw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnk5cHhubjh3ZmltajhjZHk3eTZtM3ZudQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",15:00 01/11 ⚽ Perth Glory vs Adelaide United (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnk5cHhubjh3ZmltajhjZHk3eTZtM3ZudQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Adhyaksa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",15:30 01/11 ⚽ Persib vs Adhyaksa (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1NTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmlrM2N5bGM2dzE2b2twdDF2YmFtNDV6cQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Adhyaksa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",15:30 01/11 ⚽ Persib vs Adhyaksa (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1NTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmlrM2N5bGM2dzE2b2twdDF2YmFtNDV6cQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Adhyaksa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",15:30 01/11 ⚽ Persib vs Adhyaksa (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4MTM1NTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnV5bjdoeXJxcjVsdTUyNHEyeHo1cTR5cw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Adhyaksa" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",15:30 01/11 ⚽ Persib vs Adhyaksa (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4MTM1NTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnV5bjdoeXJxcjVsdTUyNHEyeHo1cTR5cw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs SHB Đà Nẵng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 01/11 ⚽ Công an TP.Hồ Chí Minh vs SHB Đà Nẵng (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzI5MzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnJ3ZTAzZTZ6MTVsODFndGpyY21peW01bw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs SHB Đà Nẵng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 01/11 ⚽ Công an TP.Hồ Chí Minh vs SHB Đà Nẵng (Lẩu Ếch) [hls]
@@ -83,7 +67,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJ
 https://cdnflv.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Olympique Marseille vs Toulouse FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Bia Ôm TV",02:45 02/11 ⚽ Olympique Marseille vs Toulouse FC (NEM NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (Lẩu Ếch) [flv]
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (Lẩu Ếch) [hls]
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Bilbao vs Real Sociedad" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Bia Ôm TV",03:00 02/11 ⚽ Athletic Bilbao vs Real Sociedad (TRÚC BẠCH) [hls]
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8
