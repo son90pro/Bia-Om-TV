@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 04/11 ⚽ Melbourne Victory vs Persib (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIzMzM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmY5NjJ0YTlvY2RmNnllOHJ0MWY4YTRkZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 04/11 ⚽ Melbourne Victory vs Persib (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIzMzM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmY5NjJ0YTlvY2RmNnllOHJ0MWY4YTRkZQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 04/11 ⚽ Melbourne Victory vs Persib (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIzMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnBzcDczYjlvdmo2bDQxOWFoc3R2bDRwMA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne Victory vs Persib" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Bia Ôm TV",14:45 04/11 ⚽ Melbourne Victory vs Persib (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIzMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnBzcDczYjlvdmo2bDQxOWFoc3R2bDRwMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Seoul vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/seoul-672" group-title="Bia Ôm TV",17:00 04/11 ⚽ Seoul vs Thể Công-Viettel (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIzMjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnBpNmp3N204M28zN3JlbGs5OXM2a2lseQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Seoul vs Thể Công-Viettel" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/seoul-672" group-title="Bia Ôm TV",17:00 04/11 ⚽ Seoul vs Thể Công-Viettel (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIzMjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnBpNmp3N204M28zN3JlbGs5OXM2a2lseQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pohang Steelers vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="Bia Ôm TV",17:00 04/11 ⚽ Pohang Steelers vs Gamba Osaka (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omk0ZjlnMmRmcXd0eG0wZms5MXNpZjVhZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Pohang Steelers vs Gamba Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="Bia Ôm TV",17:00 04/11 ⚽ Pohang Steelers vs Gamba Osaka (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omk0ZjlnMmRmcXd0eG0wZms5MXNpZjVhZQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Buriram United vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV",19:15 04/11 ⚽ Buriram United vs Kashima Antlers (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjcwMTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmdtc3d2azJ2MXg2bGZhaWFuanNpZm1hYg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Buriram United vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Bia Ôm TV",19:15 04/11 ⚽ Buriram United vs Kashima Antlers (Lẩu Ếch) [hls]
