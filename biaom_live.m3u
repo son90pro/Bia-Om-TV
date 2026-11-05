@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Slavia Praha vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" group-title="Bia Ôm TV",03:00 05/11 ⚽ Slavia Praha vs Arsenal (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Slavia Praha vs Arsenal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" group-title="Bia Ôm TV",03:00 05/11 ⚽ Slavia Praha vs Arsenal (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI2Mzc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmVnMTF2NWs2bzZkNHRnNDZ1ZTFpMzVyZg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" group-title="Bia Ôm TV",03:00 05/11 ⚽ RB Leipzig vs Manchester City (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ1ZW03czcxbmwyN2MxaW1sZ2NtZzdicg.flv
-#EXTINF:-1 tvg-id="" tvg-name="RB Leipzig vs Manchester City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rb-leipzig-277" group-title="Bia Ôm TV",03:00 05/11 ⚽ RB Leipzig vs Manchester City (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MTg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ1ZW03czcxbmwyN2MxaW1sZ2NtZzdicg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lens vs Como" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",03:00 05/11 ⚽ Lens vs Como (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM3MTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViZDA2NXpoOTI2MjZtcXFhYmp2bTYxMg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lens vs Como" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",03:00 05/11 ⚽ Lens vs Como (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM3MTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViZDA2NXpoOTI2MjZtcXFhYmp2bTYxMg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Porto vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/porto-652" group-title="Bia Ôm TV",03:00 05/11 ⚽ Porto vs Napoli (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzMyNDE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmRyOTRnNDhvb3dscW1pZzAzN3owbzcwMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Porto vs Napoli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/porto-652" group-title="Bia Ôm TV",03:00 05/11 ⚽ Porto vs Napoli (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzMyNDE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmRyOTRnNDhvb3dscW1pZzAzN3owbzcwMw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",03:00 05/11 ⚽ Borussia Dortmund vs Real Betis (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzMyMzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnM0MzE0eTQ1dGVuM3hoeHc0MXJkcTU3eA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Borussia Dortmund vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Bia Ôm TV",03:00 05/11 ⚽ Borussia Dortmund vs Real Betis (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzMyMzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnM0MzE0eTQ1dGVuM3hoeHc0MXJkcTU3eA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Machida Zelvia vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/machida-zelvia-9180" group-title="Bia Ôm TV",17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NjIyODY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndkMXMwcjhjOTNkZTB6ZzQwaGxjdHRpNw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Machida Zelvia vs Shanghai Shenhua" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/machida-zelvia-9180" group-title="Bia Ôm TV",17:00 05/11 ⚽ Machida Zelvia vs Shanghai Shenhua (NEM NƯỚNG) [hls]
