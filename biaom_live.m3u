@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Tampines Rovers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:15 05/11 ⚽ Svay Rieng vs Tampines Rovers (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnBpMjVqdDc3ZTc5M3pqZzU3N3NxbzBqMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Tampines Rovers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:15 05/11 ⚽ Svay Rieng vs Tampines Rovers (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyNzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnBpMjVqdDc3ZTc5M3pqZzU3N3NxbzBqMw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Wofoo Tai Po" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Bia Ôm TV",19:15 05/11 ⚽ BG Pathum United vs Wofoo Tai Po (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om0ycWowYjJ3eTFoYWtlazZwaXhxN3dpeg.flv
-#EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Wofoo Tai Po" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Bia Ôm TV",19:15 05/11 ⚽ BG Pathum United vs Wofoo Tai Po (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyNzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om0ycWowYjJ3eTFoYWtlazZwaXhxN3dpeg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kuching FA vs Gangwon FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kuching-fa-160711" group-title="Bia Ôm TV",19:15 05/11 ⚽ Kuching FA vs Gangwon FC (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmp6a2N0NjdvdGVqaHRiNWFxN3p3aXE0MQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Kuching FA vs Gangwon FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kuching-fa-160711" group-title="Bia Ôm TV",19:15 05/11 ⚽ Kuching FA vs Gangwon FC (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIyNjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmp6a2N0NjdvdGVqaHRiNWFxN3p3aXE0MQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anderlecht vs Salzburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/anderlecht-2555" group-title="Bia Ôm TV",00:45 06/11 ⚽ Anderlecht vs Salzburg (HÀU NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzM5Mzg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnJ3azRjZTc1aWRqaGs1MWU0b3p6aHdsNw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Anderlecht vs Salzburg" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/anderlecht-2555" group-title="Bia Ôm TV",00:45 06/11 ⚽ Anderlecht vs Salzburg (HÀU NƯỚNG) [hls]
