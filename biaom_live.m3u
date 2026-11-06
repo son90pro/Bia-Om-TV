@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Sydney vs Central Coast Mariners" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" group-title="Bia Ôm TV",15:40 06/11 ⚽ Sydney vs Central Coast Mariners (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm83Z3J2djhpa2xtejhudWt4cXd6eDRhdQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sydney vs Central Coast Mariners" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253" group-title="Bia Ôm TV",15:40 06/11 ⚽ Sydney vs Central Coast Mariners (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm83Z3J2djhpa2xtejhudWt4cXd6eDRhdQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trường Tươi Đồng Nai vs SHB Đà Nẵng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/truong-tuoi-ong-nai-128550" group-title="Bia Ôm TV",18:00 06/11 ⚽ Trường Tươi Đồng Nai vs SHB Đà Nẵng (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5Mzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnFzc3dzdzRiNWRwcmJ0ZWJuZmQ0b3poZw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Trường Tươi Đồng Nai vs SHB Đà Nẵng" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/truong-tuoi-ong-nai-128550" group-title="Bia Ôm TV",18:00 06/11 ⚽ Trường Tươi Đồng Nai vs SHB Đà Nẵng (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5Mzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnFzc3dzdzRiNWRwcmJ0ZWJuZmQ0b3poZw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Bia Ôm TV",18:00 06/11 ⚽ Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5Mzc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnNxOW1xenYzZDZ6YXUyMmFyZmc4amk2bQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Bia Ôm TV",18:00 06/11 ⚽ Hồng Lĩnh Hà Tĩnh vs Thép Xanh Nam Định (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5Mzc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnNxOW1xenYzZDZ6YXUyMmFyZmc4amk2bQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Madura United vs Arema" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 06/11 ⚽ Madura United vs Arema (SAPPORO) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4MTM1NTY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZkYTZoempzZ2s3Nzc5cHpkM2VyNHZudg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Madura United vs Arema" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/madura-united-7188" group-title="Bia Ôm TV",19:00 06/11 ⚽ Madura United vs Arema (SAPPORO) [hls]
