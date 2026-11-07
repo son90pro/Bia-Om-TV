@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-city-315" group-title="Bia Ôm TV",15:40 07/11 ⚽ Melbourne City vs Western Sydney Wanderers (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MDI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmRmZXhpZHYyanh6MzcwdHJxdnJubGl3Zw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Melbourne City vs Western Sydney Wanderers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-city-315" group-title="Bia Ôm TV",15:40 07/11 ⚽ Melbourne City vs Western Sydney Wanderers (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MDI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmRmZXhpZHYyanh6MzcwdHJxdnJubGl3Zw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hoàng Anh Gia Lai vs Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hoang-anh-gia-lai-2847" group-title="Bia Ôm TV",17:00 07/11 ⚽ Hoàng Anh Gia Lai vs Hà Nội (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5NDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh6czQzMDN2aWUwMjhnYXE1bjB0dThoYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hoàng Anh Gia Lai vs Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hoang-anh-gia-lai-2847" group-title="Bia Ôm TV",17:00 07/11 ⚽ Hoàng Anh Gia Lai vs Hà Nội (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh6czQzMDN2aWUwMjhnYXE1bjB0dThoYg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Newcastle Jets" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",17:45 07/11 ⚽ Perth Glory vs Newcastle Jets (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg4MDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmplc3hucGlqcWh2dzRtOXJ3OXB3dXhweg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Perth Glory vs Newcastle Jets" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Bia Ôm TV",17:45 07/11 ⚽ Perth Glory vs Newcastle Jets (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmplc3hucGlqcWh2dzRtOXJ3OXB3dXhweg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hải Phòng vs Sông Lam Nghệ An" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hai-phong-15046" group-title="Bia Ôm TV",18:00 07/11 ⚽ Hải Phòng vs Sông Lam Nghệ An (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5Mzk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdlNjlzOWRocmJtMnI2dWltMDB5MmJiZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hải Phòng vs Sông Lam Nghệ An" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hai-phong-15046" group-title="Bia Ôm TV",18:00 07/11 ⚽ Hải Phòng vs Sông Lam Nghệ An (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5Mzk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdlNjlzOWRocmJtMnI2dWltMDB5MmJiZQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leeds United vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/leeds-united-71" group-title="Bia Ôm TV",19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MjIxMDc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmxiMWV6d3NybTIwdTlvNGUxOHIyc2I4aA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Leeds United vs Tottenham Hotspur" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/leeds-united-71" group-title="Bia Ôm TV",19:30 07/11 ⚽ Leeds United vs Tottenham Hotspur (NEM NƯỚNG) [hls]
