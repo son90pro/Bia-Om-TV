@@ -1,36 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="SC Heerenveen vs Feyenoord" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-heerenveen-1053" group-title="Bia Ôm TV",18:15 08/11 ⚽ SC Heerenveen vs Feyenoord (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTQ1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmM4N2o2bGdpZTh3aWE0MjV6NXZocWk0aQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="SC Heerenveen vs Feyenoord" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-heerenveen-1053" group-title="Bia Ôm TV",18:15 08/11 ⚽ SC Heerenveen vs Feyenoord (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTQ1OTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmM4N2o2bGdpZTh3aWE0MjV6NXZocWk0aQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",18:30 08/11 ⚽ Napoli vs Lazio (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdqZHNsaW0xcmRnY3prNnMwOTNja25nNw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Napoli vs Lazio" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Bia Ôm TV",18:30 08/11 ⚽ Napoli vs Lazio (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdqZHNsaW0xcmRnY3prNnMwOTNja25nNw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",20:00 08/11 ⚽ Elche vs Real Betis (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZtNTgzOHI5c3QxYXRpcHl1MjY1YzMwaA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",20:00 08/11 ⚽ Elche vs Real Betis (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZtNTgzOHI5c3QxYXRpcHl1MjY1YzMwaA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",20:00 08/11 ⚽ Elche vs Real Betis (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MzA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmNhZjZsNWg5Z2xnNTBwanJzMGlqMWR1MQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Elche vs Real Betis" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Bia Ôm TV",20:00 08/11 ⚽ Elche vs Real Betis (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MzA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmNhZjZsNWg5Z2xnNTBwanJzMGlqMWR1MQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Genoa vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/genoa-102" group-title="Bia Ôm TV",21:00 08/11 ⚽ Genoa vs Milan (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh4eTkyb2o2ZHJjZ2lzbWEyaTJ2bWYzcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Genoa vs Milan" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/genoa-102" group-title="Bia Ôm TV",21:00 08/11 ⚽ Genoa vs Milan (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omh4eTkyb2o2ZHJjZ2lzbWEyaTJ2bWYzcQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sunderland vs Chelsea" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Bia Ôm TV",21:00 08/11 ⚽ Sunderland vs Chelsea (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om5hN3JuYXI4YmZjZmtkcndxMGphbW9rMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sunderland vs Chelsea" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Bia Ôm TV",21:00 08/11 ⚽ Sunderland vs Chelsea (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om5hN3JuYXI4YmZjZmtkcndxMGphbW9rMw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crystal Palace vs Liverpool" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="Bia Ôm TV",21:00 08/11 ⚽ Crystal Palace vs Liverpool (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMTE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmR3M28yOTByZHpnNjEyYWthaGp2OHk1Mg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Crystal Palace vs Liverpool" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/crystal-palace-51" group-title="Bia Ôm TV",21:00 08/11 ⚽ Crystal Palace vs Liverpool (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMTE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmR3M28yOTByZHpnNjEyYWthaGp2OHk1Mg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brighton & Hove Albion vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brighton-hove-albion-78" group-title="Bia Ôm TV",21:00 08/11 ⚽ Brighton & Hove Albion vs Brentford (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5jZ2xhMnM3dmxmdWI0N2ZwZnJqcW9zag.flv
-#EXTINF:-1 tvg-id="" tvg-name="Brighton & Hove Albion vs Brentford" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brighton-hove-albion-78" group-title="Bia Ôm TV",21:00 08/11 ⚽ Brighton & Hove Albion vs Brentford (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMTI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5jZ2xhMnM3dmxmdWI0N2ZwZnJqcW9zag/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",22:15 08/11 ⚽ Real Sociedad vs Rayo Vallecano (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzI2MjY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFiNzJkemdvc25zc2V6eWg2cnIydHpxbA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Real Sociedad vs Rayo Vallecano" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Bia Ôm TV",22:15 08/11 ⚽ Real Sociedad vs Rayo Vallecano (Lẩu Ếch) [hls]
