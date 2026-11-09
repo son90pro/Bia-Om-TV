@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="TSG 1899 Hoffenheim vs Schalke 04" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726" group-title="Bia Ôm TV",01:30 09/11 ⚽ TSG 1899 Hoffenheim vs Schalke 04 (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzUxMjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJleTA4aWhhZDZnMHhsdzgxc25tc2dwZg.flv
-#EXTINF:-1 tvg-id="" tvg-name="TSG 1899 Hoffenheim vs Schalke 04" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726" group-title="Bia Ôm TV",01:30 09/11 ⚽ TSG 1899 Hoffenheim vs Schalke 04 (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzUxMjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJleTA4aWhhZDZnMHhsdzgxc25tc2dwZg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fiorentina vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Bia Ôm TV",02:45 09/11 ⚽ Fiorentina vs Juventus (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MTY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFmeXBwMzI3OWdudWozMWcwaDFmbzFidQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Fiorentina vs Juventus" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Bia Ôm TV",02:45 09/11 ⚽ Fiorentina vs Juventus (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MTY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFmeXBwMzI3OWdudWozMWcwaDFmbzFidQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lens vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",02:45 09/11 ⚽ Lens vs Olympique Marseille (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTU1NDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNuemM4cDE4Znk2eThzYXBtanluMWJqYw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Lens vs Olympique Marseille" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Bia Ôm TV",02:45 09/11 ⚽ Lens vs Olympique Marseille (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNuemM4cDE4Znk2eThzYXBtanluMWJqYw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",03:00 09/11 ⚽ Atlético Madrid vs FC Barcelona (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZybHRyd3pldnE5cjQ5cXBkeTF5bjR2aA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",03:00 09/11 ⚽ Atlético Madrid vs FC Barcelona (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZybHRyd3pldnE5cjQ5cXBkeTF5bjR2aA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",03:00 09/11 ⚽ Atlético Madrid vs FC Barcelona (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Atlético Madrid vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Bia Ôm TV",03:00 09/11 ⚽ Atlético Madrid vs FC Barcelona (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CSKA Sofia II vs Rilski Sportist" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893" group-title="Bia Ôm TV",19:30 09/11 ⚽ CSKA Sofia II vs Rilski Sportist (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MzE2ODk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmNmaHdlbDU0cW9zZzZ1NHg2NTE5YTNjNg.flv
 #EXTINF:-1 tvg-id="" tvg-name="CSKA Sofia II vs Rilski Sportist" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893" group-title="Bia Ôm TV",19:30 09/11 ⚽ CSKA Sofia II vs Rilski Sportist (Lẩu Ếch) [hls]
