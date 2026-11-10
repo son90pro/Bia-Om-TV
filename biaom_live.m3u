@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Botoşani vs Oțelul Galați" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" group-title="Bia Ôm TV",01:00 10/11 ⚽ Botoşani vs Oțelul Galați (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Botoşani vs Oțelul Galați" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" group-title="Bia Ôm TV",01:00 10/11 ⚽ Botoşani vs Oțelul Galați (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Torreense vs União de Leiria" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067" group-title="Bia Ôm TV",03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Torreense vs União de Leiria" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067" group-title="Bia Ôm TV",03:15 10/11 ⚽ Torreense vs União de Leiria (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Njc4OTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omdvc3BlaHhia3d1ajRldTlpM2x4NDZ5Nw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NEM NƯỚNG) [hls]
