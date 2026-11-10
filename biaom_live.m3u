@@ -1,32 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Njc4OTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omdvc3BlaHhia3d1ajRldTlpM2x4NDZ5Nw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Njc4OTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omdvc3BlaHhia3d1ajRldTlpM2x4NDZ5Nw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3Njc4OTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onp1eGZvYnUxNGUzcTl2eTZjcXliZG9oZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Santa Clara U23 vs Torreense U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Bia Ôm TV",19:00 10/11 ⚽ Santa Clara U23 vs Torreense U23 (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3Njc4OTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onp1eGZvYnUxNGUzcTl2eTZjcXliZG9oZA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Thái Lan U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDQwNTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm04OXBvb3M1ZzZnbXU5NzdvZGJidG9qOA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Thái Lan U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDQwNTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm04OXBvb3M1ZzZnbXU5NzdvZGJidG9qOA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Thái Lan U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDQwNTA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnlyYmd6ank5NzhyZnVxNjdvNnVyZ2V6cw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Thái Lan U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 10/11 ⚽ Việt Nam U23 vs Thái Lan U23 (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDQwNTA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnlyYmd6ank5NzhyZnVxNjdvNnVyZ2V6cw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Mokawloon vs Telekom Egypt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-mokawloon-623" group-title="Bia Ôm TV",22:00 10/11 ⚽ Al Mokawloon vs Telekom Egypt (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDI0NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmc4ODFybWRid2JybDM4Y3BoamQwZ2xxaQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Mokawloon vs Telekom Egypt" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-mokawloon-623" group-title="Bia Ôm TV",22:00 10/11 ⚽ Al Mokawloon vs Telekom Egypt (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmc4ODFybWRid2JybDM4Y3BoamQwZ2xxaQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 11/11 ⚽ Real Madrid W vs Paris W (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MTY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnVkbHR2dGpmZXlvZzFpejN1amR2cTkzeA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Paris W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 11/11 ⚽ Real Madrid W vs Paris W (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnVkbHR2dGpmZXlvZzFpejN1amR2cTkzeA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BK Häcken W vs Chelsea W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Bia Ôm TV",00:45 11/11 ⚽ BK Häcken W vs Chelsea W (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmRkbWIzaHZvMHloMDNmOHJoYnVwenluNw.flv
-#EXTINF:-1 tvg-id="" tvg-name="BK Häcken W vs Chelsea W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Bia Ôm TV",00:45 11/11 ⚽ BK Häcken W vs Chelsea W (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmRkbWIzaHZvMHloMDNmOHJoYnVwenluNw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tavernes vs Valencia" tvg-logo="" group-title="Bia Ôm TV",03:00 11/11 ⚽ Tavernes vs Valencia (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4OTMzNTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxyZzNwMGtsM2ozYTZ3dnJwc3NwYXI5Mw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Tavernes vs Valencia" tvg-logo="" group-title="Bia Ôm TV",03:00 11/11 ⚽ Tavernes vs Valencia (Lẩu Ếch) [hls]
@@ -43,3 +15,27 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmM
 https://cdnflv.xbdbotv.live/live/MTk4Nzk1MTU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndkNjBxd2Fwc3RkZzM0bWJkeHQyOGc3bA.flv
 #EXTINF:-1 tvg-id="" tvg-name="AS Roma W vs Servette Chênois W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="Bia Ôm TV",03:00 11/11 ⚽ AS Roma W vs Servette Chênois W (HÀU NƯỚNG) [hls]
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndkNjBxd2Fwc3RkZzM0bWJkeHQyOGc3bA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 11/11 ⚽ Yokohama F. Marinos vs Kashima Antlers (333) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omxvc29kMjB3c2lvMmRmdnV0aWpldzZ5OA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Bia Ôm TV",17:00 11/11 ⚽ Yokohama F. Marinos vs Kashima Antlers (333) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omxvc29kMjB3c2lvMmRmdnV0aWpldzZ5OA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="Bia Ôm TV",17:00 11/11 ⚽ Vissel Kobe vs Machida Zelvia (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmljbzMwOTMxbHlwaTFhOWxxODJuNHNleA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Vissel Kobe vs Machida Zelvia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="Bia Ôm TV",17:00 11/11 ⚽ Vissel Kobe vs Machida Zelvia (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmljbzMwOTMxbHlwaTFhOWxxODJuNHNleA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Bia Ôm TV",17:00 11/11 ⚽ Kawasaki Frontale vs Kashiwa Reysol (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJlazZjYnk5Y2NhbHYyMGR5Z3Zva3p4Zw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Bia Ôm TV",17:00 11/11 ⚽ Kawasaki Frontale vs Kashiwa Reysol (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJlazZjYnk5Y2NhbHYyMGR5Z3Zva3p4Zw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Bia Ôm TV",17:00 11/11 ⚽ Kawasaki Frontale vs Kashiwa Reysol (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnB1M2JlZzdub2h4OWIyOThxdHZqajVmaw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Bia Ôm TV",17:00 11/11 ⚽ Kawasaki Frontale vs Kashiwa Reysol (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnB1M2JlZzdub2h4OWIyOThxdHZqajVmaw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 11/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (NEM NƯỚNG) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM0OWEyODN0cGszbDFqcG1vZHFlZzJ1aA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 11/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (NEM NƯỚNG) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM0OWEyODN0cGszbDFqcG1vZHFlZzJ1aA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 11/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk5MDMxMDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViNTN5dnBrb2twOXdjZ3ZseGp6a2wzMw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 11/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmViNTN5dnBrb2twOXdjZ3ZseGp6a2wzMw/index.m3u8
