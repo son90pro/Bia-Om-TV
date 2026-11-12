@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDI3NTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOno4YmdmNTl2Z2V6YzJsaDByMGhxdXpqZg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDI3NTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOno4YmdmNTl2Z2V6YzJsaDByMGhxdXpqZg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDI3NTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJyZWN5aGpxajNkOGl4czdvdjAyNXE5Zw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDI3NTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJyZWN5aGpxajNkOGl4czdvdjAyNXE5Zw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Singapore U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 12/11 ⚽ Việt Nam U23 vs Singapore U23 (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDUxNDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndtazViNmNjd3NuZTRodWM3NHBrMjVjOA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Singapore U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 12/11 ⚽ Việt Nam U23 vs Singapore U23 (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDUxNDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndtazViNmNjd3NuZTRodWM3NHBrMjVjOA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Singapore U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 12/11 ⚽ Việt Nam U23 vs Singapore U23 (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDUxNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnEwMW9sdWV1bDVqdXU5aTI3ZjY0am5qaQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U23 vs Singapore U23" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Bia Ôm TV",19:00 12/11 ⚽ Việt Nam U23 vs Singapore U23 (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDUxNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnEwMW9sdWV1bDVqdXU5aTI3ZjY0am5qaQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dayrout vs Proxy" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dayrout-250626" group-title="Bia Ôm TV",19:30 12/11 ⚽ Dayrout vs Proxy (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NzYxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmVwc3hoa2RjcThwYmljcWh1aXBncHV1cQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Dayrout vs Proxy" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dayrout-250626" group-title="Bia Ôm TV",19:30 12/11 ⚽ Dayrout vs Proxy (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NzYxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmVwc3hoa2RjcThwYmljcWh1aXBncHV1cQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nasr vs Pharco" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nasr-16500" group-title="Bia Ôm TV",19:30 12/11 ⚽ Nasr vs Pharco (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NzYxMjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxvN2t2djg4OW1lNTZnb25xcTZ4dzA2eQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Nasr vs Pharco" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nasr-16500" group-title="Bia Ôm TV",19:30 12/11 ⚽ Nasr vs Pharco (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NzYxMjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxvN2t2djg4OW1lNTZnb25xcTZ4dzA2eQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Armenia vs Síp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Bia Ôm TV",00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [flv]
 https://cdnflv.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Armenia vs Síp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Bia Ôm TV",00:00 13/11 ⚽ Armenia vs Síp (TÔM CHIÊN) [hls]
