@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Pháp U19 vs Na Uy U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/france-u19-138749" group-title="Bia Ôm TV",00:00 12/11 ⚽ Pháp U19 vs Na Uy U19 (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4ODk0MDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnloaHVzeHRoaGJpMWdnNmFucWpyNXppeA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Pháp U19 vs Na Uy U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/france-u19-138749" group-title="Bia Ôm TV",00:00 12/11 ⚽ Pháp U19 vs Na Uy U19 (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4ODk0MDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnloaHVzeHRoaGJpMWdnNmFucWpyNXppeA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL Benfica W vs Austria Wien W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sl-benfica-w-239354" group-title="Bia Ôm TV",03:00 12/11 ⚽ SL Benfica W vs Austria Wien W (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdlNnQ2ZTYzZWtrN3l1bXJscDE1azc4ZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="SL Benfica W vs Austria Wien W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sl-benfica-w-239354" group-title="Bia Ôm TV",03:00 12/11 ⚽ SL Benfica W vs Austria Wien W (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmdlNnQ2ZTYzZWtrN3l1bXJscDE1azc4ZA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 12/11 ⚽ Juventus W vs Lyon W (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm51OHV1djhsOXhmeDNmOGJmMWJldHliMQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 12/11 ⚽ Juventus W vs Lyon W (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm51OHV1djhsOXhmeDNmOGJmMWJldHliMQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk5MDI3NTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOno4YmdmNTl2Z2V6YzJsaDByMGhxdXpqZg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Hwacheon KSPO W vs Gyeongju W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Bia Ôm TV",17:00 12/11 ⚽ Hwacheon KSPO W vs Gyeongju W (Vịt Nướng) [hls]
