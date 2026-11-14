@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan vs Hy Lạp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Bia Ôm TV",02:45 14/11 ⚽ Hà Lan vs Hy Lạp (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmtkY3FlNWFlNWhkb2d4c2Nlb2h3Z3lpOA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan vs Hy Lạp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Bia Ôm TV",02:45 14/11 ⚽ Hà Lan vs Hy Lạp (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmtkY3FlNWFlNWhkb2d4c2Nlb2h3Z3lpOA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bulgaria vs Iceland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Bia Ôm TV",02:45 14/11 ⚽ Bulgaria vs Iceland (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY3NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmg1b3Rzb204enlnNmhqb204OXFidDlzcg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Bulgaria vs Iceland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Bia Ôm TV",02:45 14/11 ⚽ Bulgaria vs Iceland (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmg1b3Rzb204enlnNmhqb204OXFidDlzcg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Scotland vs Macedonia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/scotland-18706" group-title="Bia Ôm TV",02:45 14/11 ⚽ Scotland vs Macedonia (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY3MTE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnRicG81OGJkbnNtMG5rbGE5cnpqenpscg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Scotland vs Macedonia" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/scotland-18706" group-title="Bia Ôm TV",02:45 14/11 ⚽ Scotland vs Macedonia (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY3MTE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnRicG81OGJkbnNtMG5rbGE5cnpqenpscg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Serbia vs Đức" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Bia Ôm TV",02:45 14/11 ⚽ Serbia vs Đức (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ3a2R2N3hnMmhzeTZkc3NyOGFxMG1mdA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Serbia vs Đức" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Bia Ôm TV",02:45 14/11 ⚽ Serbia vs Đức (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ3a2R2N3hnMmhzeTZkc3NyOGFxMG1mdA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan vs Hy Lạp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Bia Ôm TV",02:45 14/11 ⚽ Hà Lan vs Hy Lạp (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1naXhmdTVpandibHVldHlqMWI1OWZkYw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan vs Hy Lạp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Bia Ôm TV",02:45 14/11 ⚽ Hà Lan vs Hy Lạp (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1naXhmdTVpandibHVldHlqMWI1OWZkYw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nhật Bản vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" group-title="Bia Ôm TV",17:15 14/11 ⚽ Nhật Bản vs Brazil (HÀU NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzgwMDA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNkZ21xajBpMHJyNjg2YXJyc3M2d2E5aA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Nhật Bản vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" group-title="Bia Ôm TV",17:15 14/11 ⚽ Nhật Bản vs Brazil (HÀU NƯỚNG) [hls]
