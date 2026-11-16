@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Anh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/spain-18710" group-title="Bia Ôm TV",02:45 16/11 ⚽ Tây Ban Nha vs Anh (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpcG1yZWc2cHpveTB0dWl3MW1yMG11eg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Anh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/spain-18710" group-title="Bia Ôm TV",02:45 16/11 ⚽ Tây Ban Nha vs Anh (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpcG1yZWc2cHpveTB0dWl3MW1yMG11eg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Anh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/spain-18710" group-title="Bia Ôm TV",02:45 16/11 ⚽ Tây Ban Nha vs Anh (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmRqa2xoamx5cm4yNGw5eXAydjFuYnp5dQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Tây Ban Nha vs Anh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/spain-18710" group-title="Bia Ôm TV",02:45 16/11 ⚽ Tây Ban Nha vs Anh (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmRqa2xoamx5cm4yNGw5eXAydjFuYnp5dQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pháp vs Thổ Nhĩ Kỳ" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/france-18647" group-title="Bia Ôm TV",02:45 16/11 ⚽ Pháp vs Thổ Nhĩ Kỳ (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTQ6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm5oOTV3cjR3Nmc1NzJ5eWZnY2Z6NWJ2aQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Pháp vs Thổ Nhĩ Kỳ" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/france-18647" group-title="Bia Ôm TV",02:45 16/11 ⚽ Pháp vs Thổ Nhĩ Kỳ (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTQ6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm5oOTV3cjR3Nmc1NzJ5eWZnY2Z6NWJ2aQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Croatia vs Cộng hòa Séc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-18588" group-title="Bia Ôm TV",02:45 16/11 ⚽ Croatia vs Cộng hòa Séc (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnBoY25tN3hudGVhY2tjZzFkcTk1dmZzYw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Croatia vs Cộng hòa Séc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-18588" group-title="Bia Ôm TV",02:45 16/11 ⚽ Croatia vs Cộng hòa Séc (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnBoY25tN3hudGVhY2tjZzFkcTk1dmZzYw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Croatia vs Cộng hòa Séc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-18588" group-title="Bia Ôm TV",02:45 16/11 ⚽ Croatia vs Cộng hòa Séc (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtyN2ZtZnluMTEzZGt3dGl2MXdyb3R0dA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Croatia vs Cộng hòa Séc" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-18588" group-title="Bia Ôm TV",02:45 16/11 ⚽ Croatia vs Cộng hòa Séc (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtyN2ZtZnluMTEzZGt3dGl2MXdyb3R0dA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bỉ vs Ý" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Bia Ôm TV",02:45 16/11 ⚽ Bỉ vs Ý (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk2NzY2NTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNyYTFiMG9zdDA3a3BnbzA3MGdkdDZwdw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Bỉ vs Ý" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Bia Ôm TV",02:45 16/11 ⚽ Bỉ vs Ý (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNyYTFiMG9zdDA3a3BnbzA3MGdkdDZwdw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Đảo Faroe  vs Moldova" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/faroe-islands-18777" group-title="Bia Ôm TV",22:00 16/11 ⚽ Đảo Faroe  vs Moldova (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk2NzY3NDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmg5OGduNmh2aWpud2VhNjFxdjUyd216NA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Đảo Faroe  vs Moldova" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/faroe-islands-18777" group-title="Bia Ôm TV",22:00 16/11 ⚽ Đảo Faroe  vs Moldova (Vịt Nướng) [hls]
