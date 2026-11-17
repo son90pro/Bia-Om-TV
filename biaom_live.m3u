@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Singapore vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/singapore-18581" group-title="Bia Ôm TV",17:00 17/11 ⚽ Singapore vs Brazil (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzgwMDI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnZmb3Y0OTV0M2FjNmc3cXhwMXg3enZpcA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Singapore vs Brazil" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/singapore-18581" group-title="Bia Ôm TV",17:00 17/11 ⚽ Singapore vs Brazil (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzgwMDI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnZmb3Y0OTV0M2FjNmc3cXhwMXg3enZpcA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hungary U19 vs Cộng hòa Séc U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hungary U19 vs Cộng hòa Séc U19 (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4ODY2MjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzcWNlNnlzNXNxaDQ4Mno0NnlnaXp0OQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Hungary U19 vs Cộng hòa Séc U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hungary U19 vs Cộng hòa Séc U19 (Vịt Nướng) [hls]
