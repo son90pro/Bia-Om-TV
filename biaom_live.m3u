@@ -1,32 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Hungary U19 vs Cộng hòa Séc U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hungary U19 vs Cộng hòa Séc U19 (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4ODY2MjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzcWNlNnlzNXNxaDQ4Mno0NnlnaXp0OQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hungary U19 vs Cộng hòa Séc U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-u19-133739" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hungary U19 vs Cộng hòa Séc U19 (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4ODY2MjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzcWNlNnlzNXNxaDQ4Mno0NnlnaXp0OQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U19 vs Croatia U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u19-24942" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hà Lan U19 vs Croatia U19 (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4ODY2MjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ1cDhndThjemE0Y2g2dmdrZTA0MzZsbg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U19 vs Croatia U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u19-24942" group-title="Bia Ôm TV",18:00 17/11 ⚽ Hà Lan U19 vs Croatia U19 (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4ODY2MjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ1cDhndThjemE0Y2g2dmdrZTA0MzZsbg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anh U19 vs Áo U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-u19-59621" group-title="Bia Ôm TV",20:00 17/11 ⚽ Anh U19 vs Áo U19 (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4ODY2Mjc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmc1cjdkZmZ4bGFuYmc1cmw0eTgybzY2aw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Anh U19 vs Áo U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-u19-59621" group-title="Bia Ôm TV",20:00 17/11 ⚽ Anh U19 vs Áo U19 (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4ODY2Mjc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmc1cjdkZmZ4bGFuYmc1cmw0eTgybzY2aw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hy Lạp U19 vs Pháp U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/greece-u19-133741" group-title="Bia Ôm TV",21:00 17/11 ⚽ Hy Lạp U19 vs Pháp U19 (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4ODk0MDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om91eDRobTd3YWVucHBkM201cTk2eGx5ZQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hy Lạp U19 vs Pháp U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/greece-u19-133741" group-title="Bia Ôm TV",21:00 17/11 ⚽ Hy Lạp U19 vs Pháp U19 (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4ODk0MDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om91eDRobTd3YWVucHBkM201cTk2eGx5ZQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thuỵ Điển U19 vs Bồ Đào Nha U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-u19-59616" group-title="Bia Ôm TV",22:00 17/11 ⚽ Thuỵ Điển U19 vs Bồ Đào Nha U19 (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk5MDE4MDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmtwdDVrdmw0M2c2YzFvbThyc21kNWhiMA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Thuỵ Điển U19 vs Bồ Đào Nha U19" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-u19-59616" group-title="Bia Ôm TV",22:00 17/11 ⚽ Thuỵ Điển U19 vs Bồ Đào Nha U19 (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk5MDE4MDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmtwdDVrdmw0M2c2YzFvbThyc21kNWhiMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U21 vs Đan Mạch U21" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Bia Ôm TV",00:30 18/11 ⚽ Hà Lan U21 vs Đan Mạch U21 (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4OTU3MTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFwa3VnZzU2OHk0dDFzN3J1dTBveWh4aQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U21 vs Đan Mạch U21" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Bia Ôm TV",00:30 18/11 ⚽ Hà Lan U21 vs Đan Mạch U21 (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4OTU3MTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFwa3VnZzU2OHk0dDFzN3J1dTBveWh4aQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U21 vs Đan Mạch U21" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Bia Ôm TV",00:30 18/11 ⚽ Hà Lan U21 vs Đan Mạch U21 (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4OTU3MTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnB5OWI4ZzZlNGYzYW9zcDBocGE3ZTVlbg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Hà Lan U21 vs Đan Mạch U21" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Bia Ôm TV",00:30 18/11 ⚽ Hà Lan U21 vs Đan Mạch U21 (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4OTU3MTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnB5OWI4ZzZlNGYzYW9zcDBocGE3ZTVlbg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hungary vs Bắc Ireland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" group-title="Bia Ôm TV",02:45 18/11 ⚽ Hungary vs Bắc Ireland (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk2NzY3MDE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN0dmZkb3h4MDJweThobW0ybjNlaGt1dQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Hungary vs Bắc Ireland" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" group-title="Bia Ôm TV",02:45 18/11 ⚽ Hungary vs Bắc Ireland (NEM NƯỚNG) [hls]
@@ -55,3 +27,35 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NDk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJ
 https://cdnflv.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Atlético Nacional vs Once Caldas" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-nacional-6597" group-title="Bia Ôm TV",06:30 18/11 ⚽ Atlético Nacional vs Once Caldas (TEST SPORT STREAM) [hls]
 https://cdnhls.xbdbotv.live/live/MTk5MDQ0NDI6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnQ0cjUxOWQ3eWlxOWFlazR0bDAwNjNnYw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Buriram United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 18/11 ⚽ Công an TP.Hồ Chí Minh vs Buriram United (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjA0NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmR1MTh1N3k5ZGE2YjV3dHhpZDMycWk2MA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Công an TP.Hồ Chí Minh vs Buriram United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Bia Ôm TV",18:00 18/11 ⚽ Công an TP.Hồ Chí Minh vs Buriram United (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmR1MTh1N3k5ZGE2YjV3dHhpZDMycWk2MA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Ratchaburi Mitrphol FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",18:30 18/11 ⚽ Tampines Rovers vs Ratchaburi Mitrphol FC (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjA0NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOndjZ2UwNTFpbnVscGF6Nmo3Y284a3pwZA.flv
+#EXTINF:-1 tvg-id="" tvg-name="Tampines Rovers vs Ratchaburi Mitrphol FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Bia Ôm TV",18:30 18/11 ⚽ Tampines Rovers vs Ratchaburi Mitrphol FC (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOndjZ2UwNTFpbnVscGF6Nmo3Y284a3pwZA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Borneo vs Manila Digger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borneo-3157" group-title="Bia Ôm TV",19:00 18/11 ⚽ Borneo vs Manila Digger (TÔM CHIÊN) [flv]
+https://cdnflv.xbdbotv.live/live/MTk3MjA0NzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ1NnRoYzR4cHFqMDlrbTVheXd3d3lqaw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Borneo vs Manila Digger" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borneo-3157" group-title="Bia Ôm TV",19:00 18/11 ⚽ Borneo vs Manila Digger (TÔM CHIÊN) [hls]
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ1NnRoYzR4cHFqMDlrbTVheXd3d3lqaw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Inter Milano W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 19/11 ⚽ Real Madrid W vs Inter Milano W (TIGER) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdiY3U1N3VwNWNjMWliM2hqbndlbWhhaw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Inter Milano W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 19/11 ⚽ Real Madrid W vs Inter Milano W (TIGER) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdiY3U1N3VwNWNjMWliM2hqbndlbWhhaw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Inter Milano W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 19/11 ⚽ Real Madrid W vs Inter Milano W (Vịt Nướng) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmUwOGxyY24zcG0xNmJuYWMyaXE4bDY4Yw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid W vs Inter Milano W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Bia Ôm TV",00:45 19/11 ⚽ Real Madrid W vs Inter Milano W (Vịt Nướng) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmUwOGxyY24zcG0xNmJuYWMyaXE4bDY4Yw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BK Häcken W vs Manchester City W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Bia Ôm TV",00:45 19/11 ⚽ BK Häcken W vs Manchester City W (Lẩu Ếch) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnYycTFncHFuaWRtY2RkcTAzNTE2NGlkcQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="BK Häcken W vs Manchester City W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Bia Ôm TV",00:45 19/11 ⚽ BK Häcken W vs Manchester City W (Lẩu Ếch) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnYycTFncHFuaWRtY2RkcTAzNTE2NGlkcQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs OH Leuven W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 19/11 ⚽ Juventus W vs OH Leuven W (ASAHI) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ.flv
+#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs OH Leuven W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 19/11 ⚽ Juventus W vs OH Leuven W (ASAHI) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea W vs Paris SG W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" group-title="Bia Ôm TV",03:00 19/11 ⚽ Chelsea W vs Paris SG W (SAPPORO) [flv]
+https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN6ZzlsM2t0M3J4dGxya2E4d3Fqa216Mw.flv
+#EXTINF:-1 tvg-id="" tvg-name="Chelsea W vs Paris SG W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" group-title="Bia Ôm TV",03:00 19/11 ⚽ Chelsea W vs Paris SG W (SAPPORO) [hls]
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN6ZzlsM2t0M3J4dGxya2E4d3Fqa216Mw/index.m3u8
