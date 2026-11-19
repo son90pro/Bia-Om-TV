@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs OH Leuven W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 19/11 ⚽ Juventus W vs OH Leuven W (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Juventus W vs OH Leuven W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Bia Ôm TV",03:00 19/11 ⚽ Juventus W vs OH Leuven W (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:00 19/11 ⚽ Svay Rieng vs Port FC (TÔM CHIÊN) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MjA0Njg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omh6MXVxcnh0Mzdjb3kydG9lcDJvM3F4MA.flv
 #EXTINF:-1 tvg-id="" tvg-name="Svay Rieng vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Bia Ôm TV",19:00 19/11 ⚽ Svay Rieng vs Port FC (TÔM CHIÊN) [hls]
