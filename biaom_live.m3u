@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg3OTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmFtdXgwMTh4aDI5djRzMnM3aWE2eHhkNQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmFtdXgwMTh4aDI5djRzMnM3aWE2eHhkNQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg3OTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om9rdmR5NjBncGRjN2NlOXRocmQ0N3gxag.flv
-#EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om9rdmR5NjBncGRjN2NlOXRocmQ0N3gxag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Đông Á Thanh Hoá vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Bia Ôm TV",17:00 20/11 ⚽ Đông Á Thanh Hoá vs Hoàng Anh Gia Lai (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5NDQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnE0aWNiZzYzbWRzb25ieHp5Z3h6Z2lpMw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Đông Á Thanh Hoá vs Hoàng Anh Gia Lai" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Bia Ôm TV",17:00 20/11 ⚽ Đông Á Thanh Hoá vs Hoàng Anh Gia Lai (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NDQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnE0aWNiZzYzbWRzb25ieHp5Z3h6Z2lpMw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kashiwa Reysol vs JEF United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Bia Ôm TV",17:00 20/11 ⚽ Kashiwa Reysol vs JEF United (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTkxNTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmpiYTZrYjYwbjkxcHcwZHNieXE3bmhjcg.flv
 #EXTINF:-1 tvg-id="" tvg-name="Kashiwa Reysol vs JEF United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Bia Ôm TV",17:00 20/11 ⚽ Kashiwa Reysol vs JEF United (NEM NƯỚNG) [hls]
