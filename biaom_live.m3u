@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Barcelona W vs Servette Chênois W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" group-title="Bia Ôm TV",03:00 20/11 ⚽ Barcelona W vs Servette Chênois W (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmtpbnBxc212OTNheXVzOGpvdmxxaXpkcQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Barcelona W vs Servette Chênois W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" group-title="Bia Ôm TV",03:00 20/11 ⚽ Barcelona W vs Servette Chênois W (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmtpbnBxc212OTNheXVzOGpvdmxxaXpkcQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-w-62847" group-title="Bia Ôm TV",03:00 20/11 ⚽ Arsenal W vs Lyon W (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnlxODk4NGtmNjY3aWkydnpqMmx6N3E3Ng.flv
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal W vs Lyon W" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-w-62847" group-title="Bia Ôm TV",03:00 20/11 ⚽ Arsenal W vs Lyon W (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnlxODk4NGtmNjY3aWkydnpqMmx6N3E3Ng/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (Lẩu Ếch) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3NTg3OTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmFtdXgwMTh4aDI5djRzMnM3aWE2eHhkNQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Western Sydney Wanderers vs Adelaide United" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Bia Ôm TV",15:40 20/11 ⚽ Western Sydney Wanderers vs Adelaide United (Lẩu Ếch) [hls]
