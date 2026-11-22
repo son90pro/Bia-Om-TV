@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Celta Vigo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",03:00 22/11 ⚽ Real Madrid vs Celta Vigo (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MzI2MTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om40cXgxZ203YW80N3o3ZTZ5enM3MHJ4Mg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid vs Celta Vigo" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Bia Ôm TV",03:00 22/11 ⚽ Real Madrid vs Celta Vigo (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om40cXgxZ203YW80N3o3ZTZ5enM3MHJ4Mg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Bia Ôm TV",18:00 22/11 ⚽ Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzI5NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5sdHB6N2Jka2poYWM4YzRqdDFrcHYwbw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Bia Ôm TV",18:00 22/11 ⚽ Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh (Vịt Nướng) [hls]
