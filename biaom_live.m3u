@@ -1,32 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Neftchi vs Al Hilal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" group-title="Bia Ôm TV",20:45 23/11 ⚽ Neftchi vs Al Hilal (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMzk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omplem5rZXpoaXF2cGYyc3l6b28zYTFoMg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Neftchi vs Al Hilal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" group-title="Bia Ôm TV",20:45 23/11 ⚽ Neftchi vs Al Hilal (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omplem5rZXpoaXF2cGYyc3l6b28zYTFoMg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ý U17 vs Bờ Biển Ngà U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-u17-136057" group-title="Bia Ôm TV",21:30 23/11 ⚽ Ý U17 vs Bờ Biển Ngà U17 (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MDk3MTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhuNXZ2NThjc20ycXlibHRxMjdydHM0Mg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Ý U17 vs Bờ Biển Ngà U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-u17-136057" group-title="Bia Ôm TV",21:30 23/11 ⚽ Ý U17 vs Bờ Biển Ngà U17 (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MDk3MTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhuNXZ2NThjc20ycXlibHRxMjdydHM0Mg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ý U17 vs Bờ Biển Ngà U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-u17-136057" group-title="Bia Ôm TV",21:30 23/11 ⚽ Ý U17 vs Bờ Biển Ngà U17 (SAPPORO) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MDk3MTQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmt2cGdraGhpcGZxZG9iNWp3MzVndWU0eg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Ý U17 vs Bờ Biển Ngà U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-u17-136057" group-title="Bia Ôm TV",21:30 23/11 ⚽ Ý U17 vs Bờ Biển Ngà U17 (SAPPORO) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MDk3MTQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmt2cGdraGhpcGZxZG9iNWp3MzVndWU0eg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U17 vs New Zealand U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u17-266541" group-title="Bia Ôm TV",22:30 23/11 ⚽ Việt Nam U17 vs New Zealand U17 (TIGER) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MDk3MTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdjdGFmaXozMzF6eHdzbjg4Mmg5emxuYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Việt Nam U17 vs New Zealand U17" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u17-266541" group-title="Bia Ôm TV",22:30 23/11 ⚽ Việt Nam U17 vs New Zealand U17 (TIGER) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MDk3MTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdjdGFmaXozMzF6eHdzbjg4Mmg5emxuYg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Shamal SC vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-shamal-sc-2419" group-title="Bia Ôm TV",23:00 23/11 ⚽ Al Shamal SC vs Al Ahli (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF5N2Z0NWtucDZyZGtjdHpxbmVtaGRweQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Shamal SC vs Al Ahli" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-shamal-sc-2419" group-title="Bia Ôm TV",23:00 23/11 ⚽ Al Shamal SC vs Al Ahli (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF5N2Z0NWtucDZyZGtjdHpxbmVtaGRweQ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Ain vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ain-7780" group-title="Bia Ôm TV",23:00 23/11 ⚽ Al Ain vs Esteghlal (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZ6ZmV1amxtZmpydWZyOXkxZG5nbWIwYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Ain vs Esteghlal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ain-7780" group-title="Bia Ôm TV",23:00 23/11 ⚽ Al Ain vs Esteghlal (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZ6ZmV1amxtZmpydWZyOXkxZG5nbWIwYg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Pakhtakor Tashkent" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 24/11 ⚽ Al Ittihad vs Pakhtakor Tashkent (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcxMDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN2bGUzbGpvdmNueHh3cHc2OTdlenFoYg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Pakhtakor Tashkent" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",01:15 24/11 ⚽ Al Ittihad vs Pakhtakor Tashkent (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN2bGUzbGpvdmNueHh3cHc2OTdlenFoYg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Monza vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Bia Ôm TV",02:45 24/11 ⚽ Monza vs Fiorentina (HÀU NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3MTM1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm5zamFuMGJobzVoeG5xaWwxZ3k3MjU3Zw.flv
 #EXTINF:-1 tvg-id="" tvg-name="Monza vs Fiorentina" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Bia Ôm TV",02:45 24/11 ⚽ Monza vs Fiorentina (HÀU NƯỚNG) [hls]
