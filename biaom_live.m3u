@@ -1,36 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Avispa Fukuoka vs Yokohama F. Marinos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" group-title="Bia Ôm TV",17:00 25/11 ⚽ Avispa Fukuoka vs Yokohama F. Marinos (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTkxNjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNiZHkzMGI4bHo2NW1kcTF2cjBkcXd3ag.flv
-#EXTINF:-1 tvg-id="" tvg-name="Avispa Fukuoka vs Yokohama F. Marinos" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/avispa-fukuoka-2882" group-title="Bia Ôm TV",17:00 25/11 ⚽ Avispa Fukuoka vs Yokohama F. Marinos (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTkxNjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNiZHkzMGI4bHo2NW1kcTF2cjBkcXd3ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kashima Antlers vs Jeonbuk Hyundai Motors" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Bia Ôm TV",17:00 25/11 ⚽ Kashima Antlers vs Jeonbuk Hyundai Motors (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMjg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmY2NGRtNHZiNGl3Y205aTViNmNwdHhkMg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Kashima Antlers vs Jeonbuk Hyundai Motors" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Bia Ôm TV",17:00 25/11 ⚽ Kashima Antlers vs Jeonbuk Hyundai Motors (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMjg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmY2NGRtNHZiNGl3Y205aTViNmNwdHhkMg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 25/11 ⚽ Gamba Osaka vs Port FC (ASAHI) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMTY6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmNkb2J6enFndWI0anI1NnAwZ3d2NzRkdg.flv
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 25/11 ⚽ Gamba Osaka vs Port FC (ASAHI) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMTY6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmNkb2J6enFndWI0anI1NnAwZ3d2NzRkdg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 25/11 ⚽ Gamba Osaka vs Port FC (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjcwMTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhoM2J6dzdyOXNlODU1OTZkaGJodGVrbw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Gamba Osaka vs Port FC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gamba-osaka-14754" group-title="Bia Ôm TV",17:00 25/11 ⚽ Gamba Osaka vs Port FC (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjcwMTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhoM2J6dzdyOXNlODU1OTZkaGJodGVrbw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 25/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3MTkxNjk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnN1MWhyanBpcHZtOGQzaTR0Y280NWhmdA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Bia Ôm TV",17:30 25/11 ⚽ Urawa Red Diamonds vs Cerezo Osaka (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3MTkxNjk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnN1MWhyanBpcHZtOGQzaTR0Y280NWhmdA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",19:15 25/11 ⚽ Persib vs Seoul (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NjIzMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN3dGJkMjJrcHhhb3NodnJjbTFxcGYxeA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Persib vs Seoul" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Bia Ôm TV",19:15 25/11 ⚽ Persib vs Seoul (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NjIzMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN3dGJkMjJrcHhhb3NodnJjbTFxcGYxeA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Slavia Praha vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" group-title="Bia Ôm TV",00:45 26/11 ⚽ Slavia Praha vs Villarreal (HÀU NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzM3MjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmY0MGdwejIzdTh5ejJweHVpNWZ3YnA2bw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Slavia Praha vs Villarreal" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slavia-praha-216" group-title="Bia Ôm TV",00:45 26/11 ⚽ Slavia Praha vs Villarreal (HÀU NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzM3MjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmY0MGdwejIzdTh5ejJweHVpNWZ3YnA2bw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sabah vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Bia Ôm TV",00:45 26/11 ⚽ Sabah vs FC Barcelona (TÔM CHIÊN) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI2MDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om12dTYyczdwcHY3dGc1OWxqenoyeTlzZA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sabah vs FC Barcelona" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Bia Ôm TV",00:45 26/11 ⚽ Sabah vs FC Barcelona (TÔM CHIÊN) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om12dTYyczdwcHY3dGc1OWxqenoyeTlzZA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Bayern Munich" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",03:00 26/11 ⚽ LOSC Lille vs Bayern Munich (Vịt Nướng) [flv]
 https://cdnflv.xbdbotv.live/live/MTk4NzI2NDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5hM29yaWRrbTRoYnRoYjk3cWxqaHFrZg.flv
 #EXTINF:-1 tvg-id="" tvg-name="LOSC Lille vs Bayern Munich" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Bia Ôm TV",03:00 26/11 ⚽ LOSC Lille vs Bayern Munich (Vịt Nướng) [hls]
