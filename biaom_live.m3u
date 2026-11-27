@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 27/11 ⚽ Macarthur vs Melbourne City (NEM NƯỚNG) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg3OTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmQ0eHdmbGxla2IzNXZibDU5MHVkNDBwdw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 27/11 ⚽ Macarthur vs Melbourne City (NEM NƯỚNG) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmQ0eHdmbGxla2IzNXZibDU5MHVkNDBwdw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 27/11 ⚽ Macarthur vs Melbourne City (333) [flv]
-https://cdnflv.xbdbotv.live/live/MTk3NTg3OTM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onpqam9uZzFld2wxazMzbmJmbGVvbno0dw.flv
-#EXTINF:-1 tvg-id="" tvg-name="Macarthur vs Melbourne City" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006" group-title="Bia Ôm TV",15:40 27/11 ⚽ Macarthur vs Melbourne City (333) [hls]
-https://cdnhls.xbdbotv.live/live/MTk3NTg3OTM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onpqam9uZzFld2wxazMzbmJmbGVvbno0dw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sông Lam Nghệ An vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" group-title="Bia Ôm TV",18:00 27/11 ⚽ Sông Lam Nghệ An vs Ninh Bình (Lẩu Ếch) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5NTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmcwcXBncHE0Y3RjNDQ3MHc5ZGU0OWo4eA.flv
-#EXTINF:-1 tvg-id="" tvg-name="Sông Lam Nghệ An vs Ninh Bình" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" group-title="Bia Ôm TV",18:00 27/11 ⚽ Sông Lam Nghệ An vs Ninh Bình (Lẩu Ếch) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmcwcXBncHE0Y3RjNDQ3MHc5ZGU0OWo4eA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thép Xanh Nam Định vs Công an Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thep-xanh-nam-inh-18518" group-title="Bia Ôm TV",18:00 27/11 ⚽ Thép Xanh Nam Định vs Công an Hà Nội (Vịt Nướng) [flv]
-https://cdnflv.xbdbotv.live/live/MTk4NzI5NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZxN2M1cHE1eXRyeG1iZ3BsNTg3NXJ4dQ.flv
-#EXTINF:-1 tvg-id="" tvg-name="Thép Xanh Nam Định vs Công an Hà Nội" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thep-xanh-nam-inh-18518" group-title="Bia Ôm TV",18:00 27/11 ⚽ Thép Xanh Nam Định vs Công an Hà Nội (Vịt Nướng) [hls]
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZxN2M1cHE1eXRyeG1iZ3BsNTg3NXJ4dQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",00:30 28/11 ⚽ Al Ittihad vs NEOM SC (NEM NƯỚNG) [flv]
 https://cdnflv.xbdbotv.live/live/MTk3Nzg3Nzc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnBpZHl2ejY1NWVyc3Vycnh4cWZiOWZidQ.flv
 #EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs NEOM SC" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Bia Ôm TV",00:30 28/11 ⚽ Al Ittihad vs NEOM SC (NEM NƯỚNG) [hls]
